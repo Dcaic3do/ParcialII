@@ -13,7 +13,7 @@ public interface JugadorRepository extends JpaRepository<Jugador, Long>{
     @Query(value = "SELECT * FROM jugador WHERE id_equipo = :id_equipo", nativeQuery = true)
     List<Jugador> listarJugadoresporEquipo(@Param("id_equipo") Long id_equipo);
 
-    @Query(value = "SELECT j.* FROM jugador j JOIN estadistica_jugador e ON j.id = e.id_jugador GROUP BY j.id  HAVING SUM(e.goles) > :goles", nativeQuery = true)
+    @Query(value = "SELECT j.* FROM jugador j JOIN estadistica_jugador e ON j.id_jugador = e.id_jugador GROUP BY j.id_jugador  HAVING SUM(e.goles) > :goles", nativeQuery = true)
     List<Jugador> listarJugadoresConMasDeXGoles(@Param("goles") int goles);
 
 }
