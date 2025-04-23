@@ -1,0 +1,4102 @@
+[
+  {
+    "id_estadistica": 1,
+    "jugador": {
+      "id_jugador": 54,
+      "nombre": "Josefina Dolores Alfaro",
+      "dorsal": 2,
+      "fecha_nac": "1987-12-16",
+      "nacionalidad": "Filipinas",
+      "equipo": {
+        "id_equipo": 27,
+        "nombre": "Luna, Chavarría y Castellanos",
+        "ciudad": "Vieja Tuvalu",
+        "fundacion": "1950-04-27"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 73,
+      "fecha": "2025-06-20",
+      "estadio": "Proyectos Palacios, Archuleta y Monroy Stadium",
+      "equipoLocal": {
+        "id_equipo": 6,
+        "nombre": "Tórrez y Tórrez S.A.",
+        "ciudad": "Nueva Kazajstán",
+        "fundacion": "1963-04-09"
+      },
+      "equipoVisitante": {
+        "id_equipo": 29,
+        "nombre": "Treviño y Asociados",
+        "ciudad": "San Sara los bajos",
+        "fundacion": "1978-06-10"
+      },
+      "goles_local": 0,
+      "goles_visitante": 3
+    },
+    "minutos_jugados": 52,
+    "goles": 2,
+    "asistencias": 2,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 2,
+    "jugador": {
+      "id_jugador": 96,
+      "nombre": "Ing. Helena Jaimes",
+      "dorsal": 13,
+      "fecha_nac": "2000-11-15",
+      "nacionalidad": "Barbados",
+      "equipo": {
+        "id_equipo": 13,
+        "nombre": "Grupo Rolón y Ramírez",
+        "ciudad": "San Arcelia de la Montaña",
+        "fundacion": "1942-08-24"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 12,
+      "fecha": "2025-06-11",
+      "estadio": "Solano A.C. Stadium",
+      "equipoLocal": {
+        "id_equipo": 8,
+        "nombre": "Velásquez-Lugo",
+        "ciudad": "San Luis Miguel los bajos",
+        "fundacion": "1943-07-06"
+      },
+      "equipoVisitante": {
+        "id_equipo": 10,
+        "nombre": "Quiñónez-Tapia",
+        "ciudad": "Nueva Vanuatu",
+        "fundacion": "1963-08-06"
+      },
+      "goles_local": 5,
+      "goles_visitante": 0
+    },
+    "minutos_jugados": 66,
+    "goles": 1,
+    "asistencias": 3,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 3,
+    "jugador": {
+      "id_jugador": 83,
+      "nombre": "Mario Cintrón Hernádez",
+      "dorsal": 26,
+      "fecha_nac": "1996-12-13",
+      "nacionalidad": "Belice",
+      "equipo": {
+        "id_equipo": 26,
+        "nombre": "Barrera y Cabán S.A.",
+        "ciudad": "Nueva Sudán",
+        "fundacion": "2018-05-02"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 88,
+      "fecha": "2025-02-10",
+      "estadio": "Nieto-Ruiz y Asociados Stadium",
+      "equipoLocal": {
+        "id_equipo": 73,
+        "nombre": "Rico-Moya S.A. de C.V.",
+        "ciudad": "Nueva Austria",
+        "fundacion": "1961-04-29"
+      },
+      "equipoVisitante": {
+        "id_equipo": 32,
+        "nombre": "Proyectos Gracia y Bahena",
+        "ciudad": "San Aurelio los altos",
+        "fundacion": "1945-01-14"
+      },
+      "goles_local": 5,
+      "goles_visitante": 2
+    },
+    "minutos_jugados": 57,
+    "goles": 2,
+    "asistencias": 1,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 4,
+    "jugador": {
+      "id_jugador": 82,
+      "nombre": "Elena Reina Lucio",
+      "dorsal": 19,
+      "fecha_nac": "1999-06-09",
+      "nacionalidad": "Botswana",
+      "equipo": {
+        "id_equipo": 28,
+        "nombre": "Ruiz A.C.",
+        "ciudad": "San Ruby los bajos",
+        "fundacion": "1983-10-26"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 77,
+      "fecha": "2025-06-23",
+      "estadio": "Despacho Alcaraz y Montalvo Stadium",
+      "equipoLocal": {
+        "id_equipo": 31,
+        "nombre": "Industrias Nieves-Castro",
+        "ciudad": "Nueva República Árabe Siria",
+        "fundacion": "1983-12-30"
+      },
+      "equipoVisitante": {
+        "id_equipo": 15,
+        "nombre": "Huerta-Munguía",
+        "ciudad": "San Joaquín los altos",
+        "fundacion": "1920-03-20"
+      },
+      "goles_local": 5,
+      "goles_visitante": 4
+    },
+    "minutos_jugados": 87,
+    "goles": 0,
+    "asistencias": 3,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 5,
+    "jugador": {
+      "id_jugador": 12,
+      "nombre": "Lic. Gilberto Gracia",
+      "dorsal": 6,
+      "fecha_nac": "2006-07-13",
+      "nacionalidad": "Malawi",
+      "equipo": {
+        "id_equipo": 61,
+        "nombre": "Pulido y Longoria y Asociados",
+        "ciudad": "Nueva Tailandia",
+        "fundacion": "1994-01-22"
+      },
+      "posicion": "Delantero"
+    },
+    "partido": {
+      "id_partido": 34,
+      "fecha": "2025-03-13",
+      "estadio": "Club Villagómez, Bernal y Montemayor Stadium",
+      "equipoLocal": {
+        "id_equipo": 99,
+        "nombre": "Parra, Urrutia y Valle",
+        "ciudad": "San Víctor los bajos",
+        "fundacion": "2018-11-24"
+      },
+      "equipoVisitante": {
+        "id_equipo": 71,
+        "nombre": "Corporacin Ocampo, Lira y Sierra",
+        "ciudad": "Vieja Italia",
+        "fundacion": "1977-09-14"
+      },
+      "goles_local": 1,
+      "goles_visitante": 1
+    },
+    "minutos_jugados": 89,
+    "goles": 1,
+    "asistencias": 1,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 6,
+    "jugador": {
+      "id_jugador": 83,
+      "nombre": "Mario Cintrón Hernádez",
+      "dorsal": 26,
+      "fecha_nac": "1996-12-13",
+      "nacionalidad": "Belice",
+      "equipo": {
+        "id_equipo": 26,
+        "nombre": "Barrera y Cabán S.A.",
+        "ciudad": "Nueva Sudán",
+        "fundacion": "2018-05-02"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 3,
+      "fecha": "2025-03-05",
+      "estadio": "Corporacin Rincón y Medina Stadium",
+      "equipoLocal": {
+        "id_equipo": 28,
+        "nombre": "Ruiz A.C.",
+        "ciudad": "San Ruby los bajos",
+        "fundacion": "1983-10-26"
+      },
+      "equipoVisitante": {
+        "id_equipo": 35,
+        "nombre": "Partida-Vallejo",
+        "ciudad": "Vieja República de Corea",
+        "fundacion": "1994-06-13"
+      },
+      "goles_local": 2,
+      "goles_visitante": 0
+    },
+    "minutos_jugados": 75,
+    "goles": 2,
+    "asistencias": 2,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 7,
+    "jugador": {
+      "id_jugador": 45,
+      "nombre": "Ing. José Manuél Gonzales",
+      "dorsal": 27,
+      "fecha_nac": "1992-03-19",
+      "nacionalidad": "Irán",
+      "equipo": {
+        "id_equipo": 19,
+        "nombre": "Abreu e Hijos",
+        "ciudad": "San Alvaro los bajos",
+        "fundacion": "1957-07-12"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 8,
+      "fecha": "2025-06-13",
+      "estadio": "Proyectos Escobar-Sanabria Stadium",
+      "equipoLocal": {
+        "id_equipo": 50,
+        "nombre": "Zayas y Casanova A.C.",
+        "ciudad": "Vieja Bahrein",
+        "fundacion": "1984-03-16"
+      },
+      "equipoVisitante": {
+        "id_equipo": 70,
+        "nombre": "Club Canales-Munguía",
+        "ciudad": "Vieja Liberia",
+        "fundacion": "1923-09-04"
+      },
+      "goles_local": 1,
+      "goles_visitante": 4
+    },
+    "minutos_jugados": 89,
+    "goles": 3,
+    "asistencias": 2,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 8,
+    "jugador": {
+      "id_jugador": 3,
+      "nombre": "Laura María del Carmen Alemán",
+      "dorsal": 2,
+      "fecha_nac": "2001-11-15",
+      "nacionalidad": "Saint Kitts y Nevis",
+      "equipo": {
+        "id_equipo": 63,
+        "nombre": "Terán-Macías",
+        "ciudad": "San Estela de la Montaña",
+        "fundacion": "1923-06-09"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 22,
+      "fecha": "2025-01-14",
+      "estadio": "Galarza y Prieto S.C. Stadium",
+      "equipoLocal": {
+        "id_equipo": 39,
+        "nombre": "Miramontes-Durán y Asociados",
+        "ciudad": "Nueva Palau",
+        "fundacion": "2012-01-24"
+      },
+      "equipoVisitante": {
+        "id_equipo": 80,
+        "nombre": "Industrias Ulibarri-Quintanilla",
+        "ciudad": "San Itzel de la Montaña",
+        "fundacion": "1976-03-03"
+      },
+      "goles_local": 4,
+      "goles_visitante": 2
+    },
+    "minutos_jugados": 80,
+    "goles": 0,
+    "asistencias": 0,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 9,
+    "jugador": {
+      "id_jugador": 88,
+      "nombre": "Dolores Lorena Navarro Altamirano",
+      "dorsal": 15,
+      "fecha_nac": "1991-02-28",
+      "nacionalidad": "Alemania",
+      "equipo": {
+        "id_equipo": 25,
+        "nombre": "Industrias Negrete y Concepción",
+        "ciudad": "San Renato los bajos",
+        "fundacion": "1996-07-20"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 60,
+      "fecha": "2025-05-19",
+      "estadio": "Vigil-Solís Stadium",
+      "equipoLocal": {
+        "id_equipo": 22,
+        "nombre": "de León, Barela y Puga",
+        "ciudad": "San Fernando de la Montaña",
+        "fundacion": "2001-06-22"
+      },
+      "equipoVisitante": {
+        "id_equipo": 10,
+        "nombre": "Quiñónez-Tapia",
+        "ciudad": "Nueva Vanuatu",
+        "fundacion": "1963-08-06"
+      },
+      "goles_local": 1,
+      "goles_visitante": 1
+    },
+    "minutos_jugados": 88,
+    "goles": 0,
+    "asistencias": 3,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 10,
+    "jugador": {
+      "id_jugador": 68,
+      "nombre": "Mauro Sierra",
+      "dorsal": 12,
+      "fecha_nac": "1989-01-22",
+      "nacionalidad": "Iraq",
+      "equipo": {
+        "id_equipo": 31,
+        "nombre": "Industrias Nieves-Castro",
+        "ciudad": "Nueva República Árabe Siria",
+        "fundacion": "1983-12-30"
+      },
+      "posicion": "Delantero"
+    },
+    "partido": {
+      "id_partido": 65,
+      "fecha": "2025-05-26",
+      "estadio": "Fierro-Leyva Stadium",
+      "equipoLocal": {
+        "id_equipo": 54,
+        "nombre": "Corporacin Arroyo, Téllez y Ceballos",
+        "ciudad": "San Jesús los altos",
+        "fundacion": "1943-09-19"
+      },
+      "equipoVisitante": {
+        "id_equipo": 63,
+        "nombre": "Terán-Macías",
+        "ciudad": "San Estela de la Montaña",
+        "fundacion": "1923-06-09"
+      },
+      "goles_local": 0,
+      "goles_visitante": 2
+    },
+    "minutos_jugados": 77,
+    "goles": 1,
+    "asistencias": 2,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 11,
+    "jugador": {
+      "id_jugador": 75,
+      "nombre": "Esmeralda Cortés",
+      "dorsal": 14,
+      "fecha_nac": "2007-01-25",
+      "nacionalidad": "Brunei Darussalam",
+      "equipo": {
+        "id_equipo": 14,
+        "nombre": "Carrasco y Escobar S.A. de C.V.",
+        "ciudad": "Vieja Botswana",
+        "fundacion": "1938-02-25"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 5,
+      "fecha": "2025-01-25",
+      "estadio": "Despacho Muñoz, Munguía y Feliciano Stadium",
+      "equipoLocal": {
+        "id_equipo": 75,
+        "nombre": "Soliz-Lozada",
+        "ciudad": "Vieja Guatemala",
+        "fundacion": "1995-04-05"
+      },
+      "equipoVisitante": {
+        "id_equipo": 2,
+        "nombre": "Miramontes-Carrero S.A.",
+        "ciudad": "San David de la Montaña",
+        "fundacion": "2017-04-17"
+      },
+      "goles_local": 0,
+      "goles_visitante": 3
+    },
+    "minutos_jugados": 76,
+    "goles": 2,
+    "asistencias": 3,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 12,
+    "jugador": {
+      "id_jugador": 52,
+      "nombre": "Eloisa Porfirio Barreto",
+      "dorsal": 1,
+      "fecha_nac": "1991-09-12",
+      "nacionalidad": "Trinidad y Tabago",
+      "equipo": {
+        "id_equipo": 74,
+        "nombre": "Proyectos Peña, Carrillo y Montañez",
+        "ciudad": "Nueva Malawi",
+        "fundacion": "1937-02-04"
+      },
+      "posicion": "Mediocampista"
+    },
+    "partido": {
+      "id_partido": 70,
+      "fecha": "2025-03-03",
+      "estadio": "Velázquez, Aguirre y Lovato Stadium",
+      "equipoLocal": {
+        "id_equipo": 31,
+        "nombre": "Industrias Nieves-Castro",
+        "ciudad": "Nueva República Árabe Siria",
+        "fundacion": "1983-12-30"
+      },
+      "equipoVisitante": {
+        "id_equipo": 99,
+        "nombre": "Parra, Urrutia y Valle",
+        "ciudad": "San Víctor los bajos",
+        "fundacion": "2018-11-24"
+      },
+      "goles_local": 2,
+      "goles_visitante": 5
+    },
+    "minutos_jugados": 46,
+    "goles": 3,
+    "asistencias": 3,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 13,
+    "jugador": {
+      "id_jugador": 75,
+      "nombre": "Esmeralda Cortés",
+      "dorsal": 14,
+      "fecha_nac": "2007-01-25",
+      "nacionalidad": "Brunei Darussalam",
+      "equipo": {
+        "id_equipo": 14,
+        "nombre": "Carrasco y Escobar S.A. de C.V.",
+        "ciudad": "Vieja Botswana",
+        "fundacion": "1938-02-25"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 96,
+      "fecha": "2025-02-28",
+      "estadio": "Laboratorios Osorio-de Jesús Stadium",
+      "equipoLocal": {
+        "id_equipo": 12,
+        "nombre": "Herrera y Jaramillo y Asociados",
+        "ciudad": "San Pascual de la Montaña",
+        "fundacion": "1921-10-12"
+      },
+      "equipoVisitante": {
+        "id_equipo": 81,
+        "nombre": "Club Cabrera-Bermúdez",
+        "ciudad": "Nueva Turkmenistán",
+        "fundacion": "1952-02-12"
+      },
+      "goles_local": 4,
+      "goles_visitante": 0
+    },
+    "minutos_jugados": 58,
+    "goles": 2,
+    "asistencias": 3,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 14,
+    "jugador": {
+      "id_jugador": 54,
+      "nombre": "Josefina Dolores Alfaro",
+      "dorsal": 2,
+      "fecha_nac": "1987-12-16",
+      "nacionalidad": "Filipinas",
+      "equipo": {
+        "id_equipo": 27,
+        "nombre": "Luna, Chavarría y Castellanos",
+        "ciudad": "Vieja Tuvalu",
+        "fundacion": "1950-04-27"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 42,
+      "fecha": "2025-04-26",
+      "estadio": "Laboratorios Mora y Barreto Stadium",
+      "equipoLocal": {
+        "id_equipo": 12,
+        "nombre": "Herrera y Jaramillo y Asociados",
+        "ciudad": "San Pascual de la Montaña",
+        "fundacion": "1921-10-12"
+      },
+      "equipoVisitante": {
+        "id_equipo": 47,
+        "nombre": "Grupo Trejo y Naranjo",
+        "ciudad": "San Fidel los altos",
+        "fundacion": "1999-06-06"
+      },
+      "goles_local": 1,
+      "goles_visitante": 1
+    },
+    "minutos_jugados": 51,
+    "goles": 0,
+    "asistencias": 0,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 15,
+    "jugador": {
+      "id_jugador": 33,
+      "nombre": "Arcelia Rivero",
+      "dorsal": 7,
+      "fecha_nac": "1988-07-17",
+      "nacionalidad": "Reino Unido de Gran Bretaña e Irlanda del Norte",
+      "equipo": {
+        "id_equipo": 2,
+        "nombre": "Miramontes-Carrero S.A.",
+        "ciudad": "San David de la Montaña",
+        "fundacion": "2017-04-17"
+      },
+      "posicion": "Mediocampista"
+    },
+    "partido": {
+      "id_partido": 10,
+      "fecha": "2025-01-30",
+      "estadio": "Industrias Valenzuela-Luna Stadium",
+      "equipoLocal": {
+        "id_equipo": 9,
+        "nombre": "Bernal y Griego S.A. de C.V.",
+        "ciudad": "San Esmeralda los altos",
+        "fundacion": "1925-02-24"
+      },
+      "equipoVisitante": {
+        "id_equipo": 19,
+        "nombre": "Abreu e Hijos",
+        "ciudad": "San Alvaro los bajos",
+        "fundacion": "1957-07-12"
+      },
+      "goles_local": 1,
+      "goles_visitante": 5
+    },
+    "minutos_jugados": 55,
+    "goles": 3,
+    "asistencias": 2,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 16,
+    "jugador": {
+      "id_jugador": 13,
+      "nombre": "Ing. Eugenio Hernandes",
+      "dorsal": 16,
+      "fecha_nac": "1990-06-24",
+      "nacionalidad": "Albania",
+      "equipo": {
+        "id_equipo": 60,
+        "nombre": "Montañez y Velázquez S.A. de C.V.",
+        "ciudad": "San Ramón los bajos",
+        "fundacion": "1937-04-11"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 15,
+      "fecha": "2025-03-03",
+      "estadio": "de la O y Asociados Stadium",
+      "equipoLocal": {
+        "id_equipo": 57,
+        "nombre": "Carvajal y Tafoya e Hijos",
+        "ciudad": "Vieja Belarús",
+        "fundacion": "2019-08-24"
+      },
+      "equipoVisitante": {
+        "id_equipo": 95,
+        "nombre": "Grupo Ballesteros-Piña",
+        "ciudad": "San Ramón los altos",
+        "fundacion": "2019-09-17"
+      },
+      "goles_local": 3,
+      "goles_visitante": 3
+    },
+    "minutos_jugados": 71,
+    "goles": 3,
+    "asistencias": 2,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 17,
+    "jugador": {
+      "id_jugador": 67,
+      "nombre": "Mariano Mondragón Mora",
+      "dorsal": 15,
+      "fecha_nac": "2001-07-12",
+      "nacionalidad": "Eslovenia",
+      "equipo": {
+        "id_equipo": 91,
+        "nombre": "Club Valadez y Granado",
+        "ciudad": "San Nelly los bajos",
+        "fundacion": "1964-05-30"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 37,
+      "fecha": "2025-05-28",
+      "estadio": "Grupo Escobar, Gaitán y Puente Stadium",
+      "equipoLocal": {
+        "id_equipo": 36,
+        "nombre": "Santana-Ojeda S. R.L. de C.V.",
+        "ciudad": "Vieja Tonga",
+        "fundacion": "1990-05-14"
+      },
+      "equipoVisitante": {
+        "id_equipo": 94,
+        "nombre": "Club Urrutia, Carmona y Becerra",
+        "ciudad": "San Adán los altos",
+        "fundacion": "1978-09-24"
+      },
+      "goles_local": 5,
+      "goles_visitante": 4
+    },
+    "minutos_jugados": 40,
+    "goles": 1,
+    "asistencias": 2,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 18,
+    "jugador": {
+      "id_jugador": 96,
+      "nombre": "Ing. Helena Jaimes",
+      "dorsal": 13,
+      "fecha_nac": "2000-11-15",
+      "nacionalidad": "Barbados",
+      "equipo": {
+        "id_equipo": 13,
+        "nombre": "Grupo Rolón y Ramírez",
+        "ciudad": "San Arcelia de la Montaña",
+        "fundacion": "1942-08-24"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 39,
+      "fecha": "2025-02-06",
+      "estadio": "Córdova S.C. Stadium",
+      "equipoLocal": {
+        "id_equipo": 37,
+        "nombre": "Vásquez y Razo S.A. de C.V.",
+        "ciudad": "Nueva Santa Lucía",
+        "fundacion": "1987-02-19"
+      },
+      "equipoVisitante": {
+        "id_equipo": 56,
+        "nombre": "Laboratorios Zayas, Irizarry y Malave",
+        "ciudad": "San Gustavo de la Montaña",
+        "fundacion": "2004-09-22"
+      },
+      "goles_local": 3,
+      "goles_visitante": 5
+    },
+    "minutos_jugados": 38,
+    "goles": 0,
+    "asistencias": 1,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 19,
+    "jugador": {
+      "id_jugador": 27,
+      "nombre": "Fidel Flórez",
+      "dorsal": 26,
+      "fecha_nac": "1998-12-10",
+      "nacionalidad": "Suriname",
+      "equipo": {
+        "id_equipo": 98,
+        "nombre": "Club Márquez, Barragán y Aguirre",
+        "ciudad": "Nueva Ecuador",
+        "fundacion": "2019-08-04"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 9,
+      "fecha": "2025-05-21",
+      "estadio": "Zaragoza-Carrasco e Hijos Stadium",
+      "equipoLocal": {
+        "id_equipo": 93,
+        "nombre": "Negrete-Puente S. R.L. de C.V.",
+        "ciudad": "Vieja Mauricio",
+        "fundacion": "1957-03-21"
+      },
+      "equipoVisitante": {
+        "id_equipo": 57,
+        "nombre": "Carvajal y Tafoya e Hijos",
+        "ciudad": "Vieja Belarús",
+        "fundacion": "2019-08-24"
+      },
+      "goles_local": 4,
+      "goles_visitante": 3
+    },
+    "minutos_jugados": 64,
+    "goles": 0,
+    "asistencias": 1,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 20,
+    "jugador": {
+      "id_jugador": 100,
+      "nombre": "Emilia Romero Reyes",
+      "dorsal": 11,
+      "fecha_nac": "1998-10-12",
+      "nacionalidad": "Rumania",
+      "equipo": {
+        "id_equipo": 39,
+        "nombre": "Miramontes-Durán y Asociados",
+        "ciudad": "Nueva Palau",
+        "fundacion": "2012-01-24"
+      },
+      "posicion": "Delantero"
+    },
+    "partido": {
+      "id_partido": 73,
+      "fecha": "2025-06-20",
+      "estadio": "Proyectos Palacios, Archuleta y Monroy Stadium",
+      "equipoLocal": {
+        "id_equipo": 6,
+        "nombre": "Tórrez y Tórrez S.A.",
+        "ciudad": "Nueva Kazajstán",
+        "fundacion": "1963-04-09"
+      },
+      "equipoVisitante": {
+        "id_equipo": 29,
+        "nombre": "Treviño y Asociados",
+        "ciudad": "San Sara los bajos",
+        "fundacion": "1978-06-10"
+      },
+      "goles_local": 0,
+      "goles_visitante": 3
+    },
+    "minutos_jugados": 44,
+    "goles": 0,
+    "asistencias": 1,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 21,
+    "jugador": {
+      "id_jugador": 14,
+      "nombre": "Mtro. Paulina Moya",
+      "dorsal": 14,
+      "fecha_nac": "1992-08-15",
+      "nacionalidad": "Turkmenistán",
+      "equipo": {
+        "id_equipo": 20,
+        "nombre": "Galarza-Arce",
+        "ciudad": "Vieja Brunei Darussalam",
+        "fundacion": "1988-12-17"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 74,
+      "fecha": "2025-02-02",
+      "estadio": "Aguayo-Tafoya Stadium",
+      "equipoLocal": {
+        "id_equipo": 63,
+        "nombre": "Terán-Macías",
+        "ciudad": "San Estela de la Montaña",
+        "fundacion": "1923-06-09"
+      },
+      "equipoVisitante": {
+        "id_equipo": 26,
+        "nombre": "Barrera y Cabán S.A.",
+        "ciudad": "Nueva Sudán",
+        "fundacion": "2018-05-02"
+      },
+      "goles_local": 1,
+      "goles_visitante": 2
+    },
+    "minutos_jugados": 76,
+    "goles": 0,
+    "asistencias": 0,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 22,
+    "jugador": {
+      "id_jugador": 15,
+      "nombre": "Fabiola Casanova Muñoz",
+      "dorsal": 27,
+      "fecha_nac": "2005-02-21",
+      "nacionalidad": "Senegal",
+      "equipo": {
+        "id_equipo": 71,
+        "nombre": "Corporacin Ocampo, Lira y Sierra",
+        "ciudad": "Vieja Italia",
+        "fundacion": "1977-09-14"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 5,
+      "fecha": "2025-01-25",
+      "estadio": "Despacho Muñoz, Munguía y Feliciano Stadium",
+      "equipoLocal": {
+        "id_equipo": 75,
+        "nombre": "Soliz-Lozada",
+        "ciudad": "Vieja Guatemala",
+        "fundacion": "1995-04-05"
+      },
+      "equipoVisitante": {
+        "id_equipo": 2,
+        "nombre": "Miramontes-Carrero S.A.",
+        "ciudad": "San David de la Montaña",
+        "fundacion": "2017-04-17"
+      },
+      "goles_local": 0,
+      "goles_visitante": 3
+    },
+    "minutos_jugados": 51,
+    "goles": 3,
+    "asistencias": 1,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 23,
+    "jugador": {
+      "id_jugador": 65,
+      "nombre": "Darío Zavala Serrano",
+      "dorsal": 5,
+      "fecha_nac": "1995-06-29",
+      "nacionalidad": "Kuwait",
+      "equipo": {
+        "id_equipo": 12,
+        "nombre": "Herrera y Jaramillo y Asociados",
+        "ciudad": "San Pascual de la Montaña",
+        "fundacion": "1921-10-12"
+      },
+      "posicion": "Mediocampista"
+    },
+    "partido": {
+      "id_partido": 15,
+      "fecha": "2025-03-03",
+      "estadio": "de la O y Asociados Stadium",
+      "equipoLocal": {
+        "id_equipo": 57,
+        "nombre": "Carvajal y Tafoya e Hijos",
+        "ciudad": "Vieja Belarús",
+        "fundacion": "2019-08-24"
+      },
+      "equipoVisitante": {
+        "id_equipo": 95,
+        "nombre": "Grupo Ballesteros-Piña",
+        "ciudad": "San Ramón los altos",
+        "fundacion": "2019-09-17"
+      },
+      "goles_local": 3,
+      "goles_visitante": 3
+    },
+    "minutos_jugados": 72,
+    "goles": 3,
+    "asistencias": 1,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 24,
+    "jugador": {
+      "id_jugador": 68,
+      "nombre": "Mauro Sierra",
+      "dorsal": 12,
+      "fecha_nac": "1989-01-22",
+      "nacionalidad": "Iraq",
+      "equipo": {
+        "id_equipo": 31,
+        "nombre": "Industrias Nieves-Castro",
+        "ciudad": "Nueva República Árabe Siria",
+        "fundacion": "1983-12-30"
+      },
+      "posicion": "Delantero"
+    },
+    "partido": {
+      "id_partido": 68,
+      "fecha": "2025-05-08",
+      "estadio": "Quintero y Asociados Stadium",
+      "equipoLocal": {
+        "id_equipo": 12,
+        "nombre": "Herrera y Jaramillo y Asociados",
+        "ciudad": "San Pascual de la Montaña",
+        "fundacion": "1921-10-12"
+      },
+      "equipoVisitante": {
+        "id_equipo": 7,
+        "nombre": "Hernádez S. R.L. de C.V.",
+        "ciudad": "San Gustavo los bajos",
+        "fundacion": "1954-12-18"
+      },
+      "goles_local": 2,
+      "goles_visitante": 0
+    },
+    "minutos_jugados": 64,
+    "goles": 0,
+    "asistencias": 3,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 25,
+    "jugador": {
+      "id_jugador": 30,
+      "nombre": "Jonás Clara Crespo",
+      "dorsal": 15,
+      "fecha_nac": "1985-02-02",
+      "nacionalidad": "Trinidad y Tabago",
+      "equipo": {
+        "id_equipo": 64,
+        "nombre": "Orta-Alonzo",
+        "ciudad": "San Ramiro los bajos",
+        "fundacion": "2014-01-10"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 68,
+      "fecha": "2025-05-08",
+      "estadio": "Quintero y Asociados Stadium",
+      "equipoLocal": {
+        "id_equipo": 12,
+        "nombre": "Herrera y Jaramillo y Asociados",
+        "ciudad": "San Pascual de la Montaña",
+        "fundacion": "1921-10-12"
+      },
+      "equipoVisitante": {
+        "id_equipo": 7,
+        "nombre": "Hernádez S. R.L. de C.V.",
+        "ciudad": "San Gustavo los bajos",
+        "fundacion": "1954-12-18"
+      },
+      "goles_local": 2,
+      "goles_visitante": 0
+    },
+    "minutos_jugados": 61,
+    "goles": 3,
+    "asistencias": 0,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 26,
+    "jugador": {
+      "id_jugador": 52,
+      "nombre": "Eloisa Porfirio Barreto",
+      "dorsal": 1,
+      "fecha_nac": "1991-09-12",
+      "nacionalidad": "Trinidad y Tabago",
+      "equipo": {
+        "id_equipo": 74,
+        "nombre": "Proyectos Peña, Carrillo y Montañez",
+        "ciudad": "Nueva Malawi",
+        "fundacion": "1937-02-04"
+      },
+      "posicion": "Mediocampista"
+    },
+    "partido": {
+      "id_partido": 73,
+      "fecha": "2025-06-20",
+      "estadio": "Proyectos Palacios, Archuleta y Monroy Stadium",
+      "equipoLocal": {
+        "id_equipo": 6,
+        "nombre": "Tórrez y Tórrez S.A.",
+        "ciudad": "Nueva Kazajstán",
+        "fundacion": "1963-04-09"
+      },
+      "equipoVisitante": {
+        "id_equipo": 29,
+        "nombre": "Treviño y Asociados",
+        "ciudad": "San Sara los bajos",
+        "fundacion": "1978-06-10"
+      },
+      "goles_local": 0,
+      "goles_visitante": 3
+    },
+    "minutos_jugados": 65,
+    "goles": 0,
+    "asistencias": 2,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 27,
+    "jugador": {
+      "id_jugador": 7,
+      "nombre": "Nicolás Adame Murillo",
+      "dorsal": 17,
+      "fecha_nac": "1998-08-31",
+      "nacionalidad": "Eslovaquia",
+      "equipo": {
+        "id_equipo": 27,
+        "nombre": "Luna, Chavarría y Castellanos",
+        "ciudad": "Vieja Tuvalu",
+        "fundacion": "1950-04-27"
+      },
+      "posicion": "Delantero"
+    },
+    "partido": {
+      "id_partido": 78,
+      "fecha": "2025-01-08",
+      "estadio": "Longoria-Chávez Stadium",
+      "equipoLocal": {
+        "id_equipo": 11,
+        "nombre": "Garay-Burgos A.C.",
+        "ciudad": "San Laura los bajos",
+        "fundacion": "1942-11-06"
+      },
+      "equipoVisitante": {
+        "id_equipo": 58,
+        "nombre": "Cazares, Lemus y Muñoz",
+        "ciudad": "Vieja Madagascar",
+        "fundacion": "1976-09-10"
+      },
+      "goles_local": 4,
+      "goles_visitante": 1
+    },
+    "minutos_jugados": 77,
+    "goles": 3,
+    "asistencias": 0,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 28,
+    "jugador": {
+      "id_jugador": 10,
+      "nombre": "Lic. Catalina Guerrero",
+      "dorsal": 24,
+      "fecha_nac": "1986-03-28",
+      "nacionalidad": "Fiji",
+      "equipo": {
+        "id_equipo": 22,
+        "nombre": "de León, Barela y Puga",
+        "ciudad": "San Fernando de la Montaña",
+        "fundacion": "2001-06-22"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 27,
+      "fecha": "2025-03-17",
+      "estadio": "Parra y Espinoza y Asociados Stadium",
+      "equipoLocal": {
+        "id_equipo": 79,
+        "nombre": "Menéndez y Pizarro S.A.",
+        "ciudad": "San Elvira de la Montaña",
+        "fundacion": "1996-07-23"
+      },
+      "equipoVisitante": {
+        "id_equipo": 44,
+        "nombre": "Laboratorios Rosas-Hidalgo",
+        "ciudad": "Vieja Bahamas",
+        "fundacion": "1934-01-17"
+      },
+      "goles_local": 3,
+      "goles_visitante": 1
+    },
+    "minutos_jugados": 60,
+    "goles": 2,
+    "asistencias": 0,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 29,
+    "jugador": {
+      "id_jugador": 57,
+      "nombre": "Yeni Guillermina Marín Villalpando",
+      "dorsal": 2,
+      "fecha_nac": "1990-09-21",
+      "nacionalidad": "ex República Yugoslava de Macedonia",
+      "equipo": {
+        "id_equipo": 45,
+        "nombre": "Marrero y de la Crúz S.A. de C.V.",
+        "ciudad": "Nueva Malta",
+        "fundacion": "1953-10-22"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 74,
+      "fecha": "2025-02-02",
+      "estadio": "Aguayo-Tafoya Stadium",
+      "equipoLocal": {
+        "id_equipo": 63,
+        "nombre": "Terán-Macías",
+        "ciudad": "San Estela de la Montaña",
+        "fundacion": "1923-06-09"
+      },
+      "equipoVisitante": {
+        "id_equipo": 26,
+        "nombre": "Barrera y Cabán S.A.",
+        "ciudad": "Nueva Sudán",
+        "fundacion": "2018-05-02"
+      },
+      "goles_local": 1,
+      "goles_visitante": 2
+    },
+    "minutos_jugados": 50,
+    "goles": 3,
+    "asistencias": 3,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 30,
+    "jugador": {
+      "id_jugador": 99,
+      "nombre": "Isabela Vanesa Arriaga",
+      "dorsal": 19,
+      "fecha_nac": "1994-08-28",
+      "nacionalidad": "Saint Kitts y Nevis",
+      "equipo": {
+        "id_equipo": 27,
+        "nombre": "Luna, Chavarría y Castellanos",
+        "ciudad": "Vieja Tuvalu",
+        "fundacion": "1950-04-27"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 6,
+      "fecha": "2025-01-19",
+      "estadio": "Galindo-Nevárez y Asociados Stadium",
+      "equipoLocal": {
+        "id_equipo": 72,
+        "nombre": "López y Arriaga e Hijos",
+        "ciudad": "San Iván de la Montaña",
+        "fundacion": "1944-10-01"
+      },
+      "equipoVisitante": {
+        "id_equipo": 30,
+        "nombre": "Mondragón, Vera y Cardenas",
+        "ciudad": "Nueva Saint Kitts y Nevis",
+        "fundacion": "1982-01-10"
+      },
+      "goles_local": 2,
+      "goles_visitante": 4
+    },
+    "minutos_jugados": 82,
+    "goles": 2,
+    "asistencias": 1,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 31,
+    "jugador": {
+      "id_jugador": 3,
+      "nombre": "Laura María del Carmen Alemán",
+      "dorsal": 2,
+      "fecha_nac": "2001-11-15",
+      "nacionalidad": "Saint Kitts y Nevis",
+      "equipo": {
+        "id_equipo": 63,
+        "nombre": "Terán-Macías",
+        "ciudad": "San Estela de la Montaña",
+        "fundacion": "1923-06-09"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 16,
+      "fecha": "2025-01-23",
+      "estadio": "Corporacin Rico y de la Rosa Stadium",
+      "equipoLocal": {
+        "id_equipo": 100,
+        "nombre": "Corporacin Leal, Collazo y Hernández",
+        "ciudad": "Nueva Bahrein",
+        "fundacion": "1928-03-25"
+      },
+      "equipoVisitante": {
+        "id_equipo": 79,
+        "nombre": "Menéndez y Pizarro S.A.",
+        "ciudad": "San Elvira de la Montaña",
+        "fundacion": "1996-07-23"
+      },
+      "goles_local": 1,
+      "goles_visitante": 0
+    },
+    "minutos_jugados": 71,
+    "goles": 2,
+    "asistencias": 2,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 32,
+    "jugador": {
+      "id_jugador": 16,
+      "nombre": "Andrés Rodarte",
+      "dorsal": 14,
+      "fecha_nac": "2006-07-06",
+      "nacionalidad": "Myanmar",
+      "equipo": {
+        "id_equipo": 7,
+        "nombre": "Hernádez S. R.L. de C.V.",
+        "ciudad": "San Gustavo los bajos",
+        "fundacion": "1954-12-18"
+      },
+      "posicion": "Delantero"
+    },
+    "partido": {
+      "id_partido": 67,
+      "fecha": "2025-02-27",
+      "estadio": "Ocasio y Badillo y Asociados Stadium",
+      "equipoLocal": {
+        "id_equipo": 40,
+        "nombre": "Leal S.C.",
+        "ciudad": "Vieja Finlandia",
+        "fundacion": "1968-09-25"
+      },
+      "equipoVisitante": {
+        "id_equipo": 24,
+        "nombre": "Barraza-Carreón",
+        "ciudad": "Nueva Bahrein",
+        "fundacion": "1921-03-15"
+      },
+      "goles_local": 3,
+      "goles_visitante": 2
+    },
+    "minutos_jugados": 65,
+    "goles": 2,
+    "asistencias": 0,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 33,
+    "jugador": {
+      "id_jugador": 93,
+      "nombre": "Francisca Ordóñez Sandoval",
+      "dorsal": 18,
+      "fecha_nac": "2005-02-19",
+      "nacionalidad": "Sudán del Sur",
+      "equipo": {
+        "id_equipo": 65,
+        "nombre": "Sanabria y Villalobos S.A. de C.V.",
+        "ciudad": "San Aldo los altos",
+        "fundacion": "2009-08-26"
+      },
+      "posicion": "Delantero"
+    },
+    "partido": {
+      "id_partido": 67,
+      "fecha": "2025-02-27",
+      "estadio": "Ocasio y Badillo y Asociados Stadium",
+      "equipoLocal": {
+        "id_equipo": 40,
+        "nombre": "Leal S.C.",
+        "ciudad": "Vieja Finlandia",
+        "fundacion": "1968-09-25"
+      },
+      "equipoVisitante": {
+        "id_equipo": 24,
+        "nombre": "Barraza-Carreón",
+        "ciudad": "Nueva Bahrein",
+        "fundacion": "1921-03-15"
+      },
+      "goles_local": 3,
+      "goles_visitante": 2
+    },
+    "minutos_jugados": 32,
+    "goles": 1,
+    "asistencias": 3,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 34,
+    "jugador": {
+      "id_jugador": 79,
+      "nombre": "Teresa Lerma",
+      "dorsal": 30,
+      "fecha_nac": "2001-09-14",
+      "nacionalidad": "República de Moldova",
+      "equipo": {
+        "id_equipo": 4,
+        "nombre": "Pantoja e Hijos",
+        "ciudad": "San Samuel los bajos",
+        "fundacion": "2008-02-27"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 24,
+      "fecha": "2025-01-02",
+      "estadio": "Pineda-Zepeda S.A. de C.V. Stadium",
+      "equipoLocal": {
+        "id_equipo": 9,
+        "nombre": "Bernal y Griego S.A. de C.V.",
+        "ciudad": "San Esmeralda los altos",
+        "fundacion": "1925-02-24"
+      },
+      "equipoVisitante": {
+        "id_equipo": 38,
+        "nombre": "Grupo Rangel, Carbajal y Amador",
+        "ciudad": "San Bernabé los altos",
+        "fundacion": "1935-09-25"
+      },
+      "goles_local": 4,
+      "goles_visitante": 3
+    },
+    "minutos_jugados": 50,
+    "goles": 0,
+    "asistencias": 3,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 35,
+    "jugador": {
+      "id_jugador": 52,
+      "nombre": "Eloisa Porfirio Barreto",
+      "dorsal": 1,
+      "fecha_nac": "1991-09-12",
+      "nacionalidad": "Trinidad y Tabago",
+      "equipo": {
+        "id_equipo": 74,
+        "nombre": "Proyectos Peña, Carrillo y Montañez",
+        "ciudad": "Nueva Malawi",
+        "fundacion": "1937-02-04"
+      },
+      "posicion": "Mediocampista"
+    },
+    "partido": {
+      "id_partido": 6,
+      "fecha": "2025-01-19",
+      "estadio": "Galindo-Nevárez y Asociados Stadium",
+      "equipoLocal": {
+        "id_equipo": 72,
+        "nombre": "López y Arriaga e Hijos",
+        "ciudad": "San Iván de la Montaña",
+        "fundacion": "1944-10-01"
+      },
+      "equipoVisitante": {
+        "id_equipo": 30,
+        "nombre": "Mondragón, Vera y Cardenas",
+        "ciudad": "Nueva Saint Kitts y Nevis",
+        "fundacion": "1982-01-10"
+      },
+      "goles_local": 2,
+      "goles_visitante": 4
+    },
+    "minutos_jugados": 71,
+    "goles": 2,
+    "asistencias": 3,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 36,
+    "jugador": {
+      "id_jugador": 18,
+      "nombre": "Marcela Jiménez Sosa",
+      "dorsal": 2,
+      "fecha_nac": "1993-05-04",
+      "nacionalidad": "Emiratos Árabes Unidos",
+      "equipo": {
+        "id_equipo": 73,
+        "nombre": "Rico-Moya S.A. de C.V.",
+        "ciudad": "Nueva Austria",
+        "fundacion": "1961-04-29"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 6,
+      "fecha": "2025-01-19",
+      "estadio": "Galindo-Nevárez y Asociados Stadium",
+      "equipoLocal": {
+        "id_equipo": 72,
+        "nombre": "López y Arriaga e Hijos",
+        "ciudad": "San Iván de la Montaña",
+        "fundacion": "1944-10-01"
+      },
+      "equipoVisitante": {
+        "id_equipo": 30,
+        "nombre": "Mondragón, Vera y Cardenas",
+        "ciudad": "Nueva Saint Kitts y Nevis",
+        "fundacion": "1982-01-10"
+      },
+      "goles_local": 2,
+      "goles_visitante": 4
+    },
+    "minutos_jugados": 48,
+    "goles": 0,
+    "asistencias": 1,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 37,
+    "jugador": {
+      "id_jugador": 78,
+      "nombre": "Jaime Horacio Abreu",
+      "dorsal": 13,
+      "fecha_nac": "1990-12-15",
+      "nacionalidad": "Bangladesh",
+      "equipo": {
+        "id_equipo": 75,
+        "nombre": "Soliz-Lozada",
+        "ciudad": "Vieja Guatemala",
+        "fundacion": "1995-04-05"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 15,
+      "fecha": "2025-03-03",
+      "estadio": "de la O y Asociados Stadium",
+      "equipoLocal": {
+        "id_equipo": 57,
+        "nombre": "Carvajal y Tafoya e Hijos",
+        "ciudad": "Vieja Belarús",
+        "fundacion": "2019-08-24"
+      },
+      "equipoVisitante": {
+        "id_equipo": 95,
+        "nombre": "Grupo Ballesteros-Piña",
+        "ciudad": "San Ramón los altos",
+        "fundacion": "2019-09-17"
+      },
+      "goles_local": 3,
+      "goles_visitante": 3
+    },
+    "minutos_jugados": 57,
+    "goles": 3,
+    "asistencias": 2,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 38,
+    "jugador": {
+      "id_jugador": 14,
+      "nombre": "Mtro. Paulina Moya",
+      "dorsal": 14,
+      "fecha_nac": "1992-08-15",
+      "nacionalidad": "Turkmenistán",
+      "equipo": {
+        "id_equipo": 20,
+        "nombre": "Galarza-Arce",
+        "ciudad": "Vieja Brunei Darussalam",
+        "fundacion": "1988-12-17"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 77,
+      "fecha": "2025-06-23",
+      "estadio": "Despacho Alcaraz y Montalvo Stadium",
+      "equipoLocal": {
+        "id_equipo": 31,
+        "nombre": "Industrias Nieves-Castro",
+        "ciudad": "Nueva República Árabe Siria",
+        "fundacion": "1983-12-30"
+      },
+      "equipoVisitante": {
+        "id_equipo": 15,
+        "nombre": "Huerta-Munguía",
+        "ciudad": "San Joaquín los altos",
+        "fundacion": "1920-03-20"
+      },
+      "goles_local": 5,
+      "goles_visitante": 4
+    },
+    "minutos_jugados": 60,
+    "goles": 1,
+    "asistencias": 1,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 39,
+    "jugador": {
+      "id_jugador": 9,
+      "nombre": "Susana Hermelinda Farías Lerma",
+      "dorsal": 25,
+      "fecha_nac": "1988-05-31",
+      "nacionalidad": "Afganistán",
+      "equipo": {
+        "id_equipo": 1,
+        "nombre": "Corporacin Aranda-Peres",
+        "ciudad": "Vieja Alemania",
+        "fundacion": "1948-06-16"
+      },
+      "posicion": "Mediocampista"
+    },
+    "partido": {
+      "id_partido": 97,
+      "fecha": "2025-02-21",
+      "estadio": "Avilés-Escamilla S.A. de C.V. Stadium",
+      "equipoLocal": {
+        "id_equipo": 19,
+        "nombre": "Abreu e Hijos",
+        "ciudad": "San Alvaro los bajos",
+        "fundacion": "1957-07-12"
+      },
+      "equipoVisitante": {
+        "id_equipo": 80,
+        "nombre": "Industrias Ulibarri-Quintanilla",
+        "ciudad": "San Itzel de la Montaña",
+        "fundacion": "1976-03-03"
+      },
+      "goles_local": 4,
+      "goles_visitante": 3
+    },
+    "minutos_jugados": 59,
+    "goles": 0,
+    "asistencias": 2,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 40,
+    "jugador": {
+      "id_jugador": 46,
+      "nombre": "Florencia Cornejo Iglesias",
+      "dorsal": 28,
+      "fecha_nac": "1996-01-12",
+      "nacionalidad": "Argelia",
+      "equipo": {
+        "id_equipo": 73,
+        "nombre": "Rico-Moya S.A. de C.V.",
+        "ciudad": "Nueva Austria",
+        "fundacion": "1961-04-29"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 11,
+      "fecha": "2025-05-15",
+      "estadio": "Club Archuleta y Cordero Stadium",
+      "equipoLocal": {
+        "id_equipo": 5,
+        "nombre": "Pérez, Verduzco y Mondragón",
+        "ciudad": "Vieja Saint Kitts y Nevis",
+        "fundacion": "1939-09-20"
+      },
+      "equipoVisitante": {
+        "id_equipo": 29,
+        "nombre": "Treviño y Asociados",
+        "ciudad": "San Sara los bajos",
+        "fundacion": "1978-06-10"
+      },
+      "goles_local": 4,
+      "goles_visitante": 5
+    },
+    "minutos_jugados": 54,
+    "goles": 2,
+    "asistencias": 2,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 41,
+    "jugador": {
+      "id_jugador": 53,
+      "nombre": "Lic. Reynaldo Gonzales",
+      "dorsal": 3,
+      "fecha_nac": "1999-04-19",
+      "nacionalidad": "India",
+      "equipo": {
+        "id_equipo": 89,
+        "nombre": "Proyectos Mata y León",
+        "ciudad": "San Virginia los bajos",
+        "fundacion": "1982-11-16"
+      },
+      "posicion": "Delantero"
+    },
+    "partido": {
+      "id_partido": 81,
+      "fecha": "2025-05-16",
+      "estadio": "Despacho Peña, Ybarra y Aguirre Stadium",
+      "equipoLocal": {
+        "id_equipo": 77,
+        "nombre": "Navarro S.C.",
+        "ciudad": "Vieja Seychelles",
+        "fundacion": "1951-12-24"
+      },
+      "equipoVisitante": {
+        "id_equipo": 9,
+        "nombre": "Bernal y Griego S.A. de C.V.",
+        "ciudad": "San Esmeralda los altos",
+        "fundacion": "1925-02-24"
+      },
+      "goles_local": 2,
+      "goles_visitante": 4
+    },
+    "minutos_jugados": 60,
+    "goles": 3,
+    "asistencias": 0,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 42,
+    "jugador": {
+      "id_jugador": 87,
+      "nombre": "Sr(a). Emilio Padrón",
+      "dorsal": 19,
+      "fecha_nac": "1986-01-04",
+      "nacionalidad": "Burkina Faso",
+      "equipo": {
+        "id_equipo": 81,
+        "nombre": "Club Cabrera-Bermúdez",
+        "ciudad": "Nueva Turkmenistán",
+        "fundacion": "1952-02-12"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 59,
+      "fecha": "2025-03-02",
+      "estadio": "Puente-de la O Stadium",
+      "equipoLocal": {
+        "id_equipo": 34,
+        "nombre": "Estévez S.C.",
+        "ciudad": "San Lucas de la Montaña",
+        "fundacion": "2006-06-12"
+      },
+      "equipoVisitante": {
+        "id_equipo": 48,
+        "nombre": "Tello, Téllez y Mayorga",
+        "ciudad": "Vieja Burundi",
+        "fundacion": "1949-12-28"
+      },
+      "goles_local": 1,
+      "goles_visitante": 5
+    },
+    "minutos_jugados": 88,
+    "goles": 0,
+    "asistencias": 1,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 43,
+    "jugador": {
+      "id_jugador": 91,
+      "nombre": "Débora Soledad Otero",
+      "dorsal": 12,
+      "fecha_nac": "1998-02-11",
+      "nacionalidad": "Azerbaiyán",
+      "equipo": {
+        "id_equipo": 22,
+        "nombre": "de León, Barela y Puga",
+        "ciudad": "San Fernando de la Montaña",
+        "fundacion": "2001-06-22"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 93,
+      "fecha": "2025-05-17",
+      "estadio": "Club Valadez y Trejo Stadium",
+      "equipoLocal": {
+        "id_equipo": 41,
+        "nombre": "Soliz-Martínez",
+        "ciudad": "Nueva Somalia",
+        "fundacion": "1992-01-09"
+      },
+      "equipoVisitante": {
+        "id_equipo": 22,
+        "nombre": "de León, Barela y Puga",
+        "ciudad": "San Fernando de la Montaña",
+        "fundacion": "2001-06-22"
+      },
+      "goles_local": 4,
+      "goles_visitante": 1
+    },
+    "minutos_jugados": 33,
+    "goles": 1,
+    "asistencias": 2,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 44,
+    "jugador": {
+      "id_jugador": 27,
+      "nombre": "Fidel Flórez",
+      "dorsal": 26,
+      "fecha_nac": "1998-12-10",
+      "nacionalidad": "Suriname",
+      "equipo": {
+        "id_equipo": 98,
+        "nombre": "Club Márquez, Barragán y Aguirre",
+        "ciudad": "Nueva Ecuador",
+        "fundacion": "2019-08-04"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 15,
+      "fecha": "2025-03-03",
+      "estadio": "de la O y Asociados Stadium",
+      "equipoLocal": {
+        "id_equipo": 57,
+        "nombre": "Carvajal y Tafoya e Hijos",
+        "ciudad": "Vieja Belarús",
+        "fundacion": "2019-08-24"
+      },
+      "equipoVisitante": {
+        "id_equipo": 95,
+        "nombre": "Grupo Ballesteros-Piña",
+        "ciudad": "San Ramón los altos",
+        "fundacion": "2019-09-17"
+      },
+      "goles_local": 3,
+      "goles_visitante": 3
+    },
+    "minutos_jugados": 88,
+    "goles": 0,
+    "asistencias": 2,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 45,
+    "jugador": {
+      "id_jugador": 63,
+      "nombre": "Esther Sergio Benavides Verdugo",
+      "dorsal": 8,
+      "fecha_nac": "2005-08-15",
+      "nacionalidad": "Nauru",
+      "equipo": {
+        "id_equipo": 42,
+        "nombre": "Trujillo-Quintanilla S.A. de C.V.",
+        "ciudad": "San Jos los bajos",
+        "fundacion": "1945-03-04"
+      },
+      "posicion": "Mediocampista"
+    },
+    "partido": {
+      "id_partido": 70,
+      "fecha": "2025-03-03",
+      "estadio": "Velázquez, Aguirre y Lovato Stadium",
+      "equipoLocal": {
+        "id_equipo": 31,
+        "nombre": "Industrias Nieves-Castro",
+        "ciudad": "Nueva República Árabe Siria",
+        "fundacion": "1983-12-30"
+      },
+      "equipoVisitante": {
+        "id_equipo": 99,
+        "nombre": "Parra, Urrutia y Valle",
+        "ciudad": "San Víctor los bajos",
+        "fundacion": "2018-11-24"
+      },
+      "goles_local": 2,
+      "goles_visitante": 5
+    },
+    "minutos_jugados": 58,
+    "goles": 2,
+    "asistencias": 0,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 46,
+    "jugador": {
+      "id_jugador": 49,
+      "nombre": "Ivonne Débora Molina",
+      "dorsal": 27,
+      "fecha_nac": "1992-05-07",
+      "nacionalidad": "España",
+      "equipo": {
+        "id_equipo": 42,
+        "nombre": "Trujillo-Quintanilla S.A. de C.V.",
+        "ciudad": "San Jos los bajos",
+        "fundacion": "1945-03-04"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 77,
+      "fecha": "2025-06-23",
+      "estadio": "Despacho Alcaraz y Montalvo Stadium",
+      "equipoLocal": {
+        "id_equipo": 31,
+        "nombre": "Industrias Nieves-Castro",
+        "ciudad": "Nueva República Árabe Siria",
+        "fundacion": "1983-12-30"
+      },
+      "equipoVisitante": {
+        "id_equipo": 15,
+        "nombre": "Huerta-Munguía",
+        "ciudad": "San Joaquín los altos",
+        "fundacion": "1920-03-20"
+      },
+      "goles_local": 5,
+      "goles_visitante": 4
+    },
+    "minutos_jugados": 74,
+    "goles": 1,
+    "asistencias": 0,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 47,
+    "jugador": {
+      "id_jugador": 2,
+      "nombre": "Sr(a). Armando Laboy",
+      "dorsal": 28,
+      "fecha_nac": "2007-03-02",
+      "nacionalidad": "Niger",
+      "equipo": {
+        "id_equipo": 99,
+        "nombre": "Parra, Urrutia y Valle",
+        "ciudad": "San Víctor los bajos",
+        "fundacion": "2018-11-24"
+      },
+      "posicion": "Delantero"
+    },
+    "partido": {
+      "id_partido": 97,
+      "fecha": "2025-02-21",
+      "estadio": "Avilés-Escamilla S.A. de C.V. Stadium",
+      "equipoLocal": {
+        "id_equipo": 19,
+        "nombre": "Abreu e Hijos",
+        "ciudad": "San Alvaro los bajos",
+        "fundacion": "1957-07-12"
+      },
+      "equipoVisitante": {
+        "id_equipo": 80,
+        "nombre": "Industrias Ulibarri-Quintanilla",
+        "ciudad": "San Itzel de la Montaña",
+        "fundacion": "1976-03-03"
+      },
+      "goles_local": 4,
+      "goles_visitante": 3
+    },
+    "minutos_jugados": 49,
+    "goles": 0,
+    "asistencias": 0,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 48,
+    "jugador": {
+      "id_jugador": 54,
+      "nombre": "Josefina Dolores Alfaro",
+      "dorsal": 2,
+      "fecha_nac": "1987-12-16",
+      "nacionalidad": "Filipinas",
+      "equipo": {
+        "id_equipo": 27,
+        "nombre": "Luna, Chavarría y Castellanos",
+        "ciudad": "Vieja Tuvalu",
+        "fundacion": "1950-04-27"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 59,
+      "fecha": "2025-03-02",
+      "estadio": "Puente-de la O Stadium",
+      "equipoLocal": {
+        "id_equipo": 34,
+        "nombre": "Estévez S.C.",
+        "ciudad": "San Lucas de la Montaña",
+        "fundacion": "2006-06-12"
+      },
+      "equipoVisitante": {
+        "id_equipo": 48,
+        "nombre": "Tello, Téllez y Mayorga",
+        "ciudad": "Vieja Burundi",
+        "fundacion": "1949-12-28"
+      },
+      "goles_local": 1,
+      "goles_visitante": 5
+    },
+    "minutos_jugados": 48,
+    "goles": 2,
+    "asistencias": 1,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 49,
+    "jugador": {
+      "id_jugador": 86,
+      "nombre": "Luis Córdova Cardona",
+      "dorsal": 30,
+      "fecha_nac": "1992-01-13",
+      "nacionalidad": "Bahamas",
+      "equipo": {
+        "id_equipo": 19,
+        "nombre": "Abreu e Hijos",
+        "ciudad": "San Alvaro los bajos",
+        "fundacion": "1957-07-12"
+      },
+      "posicion": "Mediocampista"
+    },
+    "partido": {
+      "id_partido": 8,
+      "fecha": "2025-06-13",
+      "estadio": "Proyectos Escobar-Sanabria Stadium",
+      "equipoLocal": {
+        "id_equipo": 50,
+        "nombre": "Zayas y Casanova A.C.",
+        "ciudad": "Vieja Bahrein",
+        "fundacion": "1984-03-16"
+      },
+      "equipoVisitante": {
+        "id_equipo": 70,
+        "nombre": "Club Canales-Munguía",
+        "ciudad": "Vieja Liberia",
+        "fundacion": "1923-09-04"
+      },
+      "goles_local": 1,
+      "goles_visitante": 4
+    },
+    "minutos_jugados": 42,
+    "goles": 1,
+    "asistencias": 1,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 50,
+    "jugador": {
+      "id_jugador": 20,
+      "nombre": "Paulina Jonás Alcala Raya",
+      "dorsal": 15,
+      "fecha_nac": "1993-03-27",
+      "nacionalidad": "Burundi",
+      "equipo": {
+        "id_equipo": 92,
+        "nombre": "Laboratorios Canales, Bétancourt y Henríquez",
+        "ciudad": "Vieja Lesotho",
+        "fundacion": "1934-08-12"
+      },
+      "posicion": "Mediocampista"
+    },
+    "partido": {
+      "id_partido": 94,
+      "fecha": "2025-06-02",
+      "estadio": "Tejeda-Arias S. R.L. de C.V. Stadium",
+      "equipoLocal": {
+        "id_equipo": 62,
+        "nombre": "Almaraz-Enríquez",
+        "ciudad": "Nueva China",
+        "fundacion": "1940-07-21"
+      },
+      "equipoVisitante": {
+        "id_equipo": 26,
+        "nombre": "Barrera y Cabán S.A.",
+        "ciudad": "Nueva Sudán",
+        "fundacion": "2018-05-02"
+      },
+      "goles_local": 4,
+      "goles_visitante": 3
+    },
+    "minutos_jugados": 45,
+    "goles": 2,
+    "asistencias": 0,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 51,
+    "jugador": {
+      "id_jugador": 16,
+      "nombre": "Andrés Rodarte",
+      "dorsal": 14,
+      "fecha_nac": "2006-07-06",
+      "nacionalidad": "Myanmar",
+      "equipo": {
+        "id_equipo": 7,
+        "nombre": "Hernádez S. R.L. de C.V.",
+        "ciudad": "San Gustavo los bajos",
+        "fundacion": "1954-12-18"
+      },
+      "posicion": "Delantero"
+    },
+    "partido": {
+      "id_partido": 67,
+      "fecha": "2025-02-27",
+      "estadio": "Ocasio y Badillo y Asociados Stadium",
+      "equipoLocal": {
+        "id_equipo": 40,
+        "nombre": "Leal S.C.",
+        "ciudad": "Vieja Finlandia",
+        "fundacion": "1968-09-25"
+      },
+      "equipoVisitante": {
+        "id_equipo": 24,
+        "nombre": "Barraza-Carreón",
+        "ciudad": "Nueva Bahrein",
+        "fundacion": "1921-03-15"
+      },
+      "goles_local": 3,
+      "goles_visitante": 2
+    },
+    "minutos_jugados": 89,
+    "goles": 0,
+    "asistencias": 2,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 52,
+    "jugador": {
+      "id_jugador": 79,
+      "nombre": "Teresa Lerma",
+      "dorsal": 30,
+      "fecha_nac": "2001-09-14",
+      "nacionalidad": "República de Moldova",
+      "equipo": {
+        "id_equipo": 4,
+        "nombre": "Pantoja e Hijos",
+        "ciudad": "San Samuel los bajos",
+        "fundacion": "2008-02-27"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 70,
+      "fecha": "2025-03-03",
+      "estadio": "Velázquez, Aguirre y Lovato Stadium",
+      "equipoLocal": {
+        "id_equipo": 31,
+        "nombre": "Industrias Nieves-Castro",
+        "ciudad": "Nueva República Árabe Siria",
+        "fundacion": "1983-12-30"
+      },
+      "equipoVisitante": {
+        "id_equipo": 99,
+        "nombre": "Parra, Urrutia y Valle",
+        "ciudad": "San Víctor los bajos",
+        "fundacion": "2018-11-24"
+      },
+      "goles_local": 2,
+      "goles_visitante": 5
+    },
+    "minutos_jugados": 54,
+    "goles": 3,
+    "asistencias": 2,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 53,
+    "jugador": {
+      "id_jugador": 76,
+      "nombre": "Eva Nava",
+      "dorsal": 29,
+      "fecha_nac": "1988-08-09",
+      "nacionalidad": "Bélgica",
+      "equipo": {
+        "id_equipo": 63,
+        "nombre": "Terán-Macías",
+        "ciudad": "San Estela de la Montaña",
+        "fundacion": "1923-06-09"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 46,
+      "fecha": "2025-06-01",
+      "estadio": "Grupo Ulloa-Madera Stadium",
+      "equipoLocal": {
+        "id_equipo": 92,
+        "nombre": "Laboratorios Canales, Bétancourt y Henríquez",
+        "ciudad": "Vieja Lesotho",
+        "fundacion": "1934-08-12"
+      },
+      "equipoVisitante": {
+        "id_equipo": 90,
+        "nombre": "Bahena y Merino S.A.",
+        "ciudad": "Nueva Bahrein",
+        "fundacion": "1960-04-05"
+      },
+      "goles_local": 2,
+      "goles_visitante": 4
+    },
+    "minutos_jugados": 76,
+    "goles": 0,
+    "asistencias": 0,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 54,
+    "jugador": {
+      "id_jugador": 48,
+      "nombre": "Araceli Elena Corral",
+      "dorsal": 5,
+      "fecha_nac": "1986-03-19",
+      "nacionalidad": "Cabo Verde",
+      "equipo": {
+        "id_equipo": 86,
+        "nombre": "Grupo Gaytán y Coronado",
+        "ciudad": "San Antonio de la Montaña",
+        "fundacion": "2013-01-20"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 87,
+      "fecha": "2025-04-06",
+      "estadio": "Grupo Mendoza y Orta Stadium",
+      "equipoLocal": {
+        "id_equipo": 37,
+        "nombre": "Vásquez y Razo S.A. de C.V.",
+        "ciudad": "Nueva Santa Lucía",
+        "fundacion": "1987-02-19"
+      },
+      "equipoVisitante": {
+        "id_equipo": 65,
+        "nombre": "Sanabria y Villalobos S.A. de C.V.",
+        "ciudad": "San Aldo los altos",
+        "fundacion": "2009-08-26"
+      },
+      "goles_local": 3,
+      "goles_visitante": 2
+    },
+    "minutos_jugados": 58,
+    "goles": 2,
+    "asistencias": 3,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 55,
+    "jugador": {
+      "id_jugador": 95,
+      "nombre": "Mtro. Luis Guardado",
+      "dorsal": 24,
+      "fecha_nac": "1999-02-07",
+      "nacionalidad": "Guatemala",
+      "equipo": {
+        "id_equipo": 29,
+        "nombre": "Treviño y Asociados",
+        "ciudad": "San Sara los bajos",
+        "fundacion": "1978-06-10"
+      },
+      "posicion": "Delantero"
+    },
+    "partido": {
+      "id_partido": 31,
+      "fecha": "2025-02-15",
+      "estadio": "Industrias Laboy-Granado Stadium",
+      "equipoLocal": {
+        "id_equipo": 19,
+        "nombre": "Abreu e Hijos",
+        "ciudad": "San Alvaro los bajos",
+        "fundacion": "1957-07-12"
+      },
+      "equipoVisitante": {
+        "id_equipo": 22,
+        "nombre": "de León, Barela y Puga",
+        "ciudad": "San Fernando de la Montaña",
+        "fundacion": "2001-06-22"
+      },
+      "goles_local": 5,
+      "goles_visitante": 2
+    },
+    "minutos_jugados": 58,
+    "goles": 0,
+    "asistencias": 0,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 56,
+    "jugador": {
+      "id_jugador": 45,
+      "nombre": "Ing. José Manuél Gonzales",
+      "dorsal": 27,
+      "fecha_nac": "1992-03-19",
+      "nacionalidad": "Irán",
+      "equipo": {
+        "id_equipo": 19,
+        "nombre": "Abreu e Hijos",
+        "ciudad": "San Alvaro los bajos",
+        "fundacion": "1957-07-12"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 59,
+      "fecha": "2025-03-02",
+      "estadio": "Puente-de la O Stadium",
+      "equipoLocal": {
+        "id_equipo": 34,
+        "nombre": "Estévez S.C.",
+        "ciudad": "San Lucas de la Montaña",
+        "fundacion": "2006-06-12"
+      },
+      "equipoVisitante": {
+        "id_equipo": 48,
+        "nombre": "Tello, Téllez y Mayorga",
+        "ciudad": "Vieja Burundi",
+        "fundacion": "1949-12-28"
+      },
+      "goles_local": 1,
+      "goles_visitante": 5
+    },
+    "minutos_jugados": 87,
+    "goles": 3,
+    "asistencias": 1,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 57,
+    "jugador": {
+      "id_jugador": 60,
+      "nombre": "Benito Montenegro",
+      "dorsal": 11,
+      "fecha_nac": "1986-07-05",
+      "nacionalidad": "Kirguistán",
+      "equipo": {
+        "id_equipo": 50,
+        "nombre": "Zayas y Casanova A.C.",
+        "ciudad": "Vieja Bahrein",
+        "fundacion": "1984-03-16"
+      },
+      "posicion": "Mediocampista"
+    },
+    "partido": {
+      "id_partido": 35,
+      "fecha": "2025-05-03",
+      "estadio": "Pérez-Roque e Hijos Stadium",
+      "equipoLocal": {
+        "id_equipo": 57,
+        "nombre": "Carvajal y Tafoya e Hijos",
+        "ciudad": "Vieja Belarús",
+        "fundacion": "2019-08-24"
+      },
+      "equipoVisitante": {
+        "id_equipo": 23,
+        "nombre": "Uribe-Dávila",
+        "ciudad": "San Bernabé de la Montaña",
+        "fundacion": "1960-11-05"
+      },
+      "goles_local": 5,
+      "goles_visitante": 4
+    },
+    "minutos_jugados": 78,
+    "goles": 0,
+    "asistencias": 3,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 58,
+    "jugador": {
+      "id_jugador": 10,
+      "nombre": "Lic. Catalina Guerrero",
+      "dorsal": 24,
+      "fecha_nac": "1986-03-28",
+      "nacionalidad": "Fiji",
+      "equipo": {
+        "id_equipo": 22,
+        "nombre": "de León, Barela y Puga",
+        "ciudad": "San Fernando de la Montaña",
+        "fundacion": "2001-06-22"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 14,
+      "fecha": "2025-02-13",
+      "estadio": "Madrid y Ramón y Asociados Stadium",
+      "equipoLocal": {
+        "id_equipo": 43,
+        "nombre": "Puga-Vallejo A.C.",
+        "ciudad": "Vieja Burundi",
+        "fundacion": "1992-11-29"
+      },
+      "equipoVisitante": {
+        "id_equipo": 57,
+        "nombre": "Carvajal y Tafoya e Hijos",
+        "ciudad": "Vieja Belarús",
+        "fundacion": "2019-08-24"
+      },
+      "goles_local": 5,
+      "goles_visitante": 1
+    },
+    "minutos_jugados": 70,
+    "goles": 1,
+    "asistencias": 3,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 59,
+    "jugador": {
+      "id_jugador": 15,
+      "nombre": "Fabiola Casanova Muñoz",
+      "dorsal": 27,
+      "fecha_nac": "2005-02-21",
+      "nacionalidad": "Senegal",
+      "equipo": {
+        "id_equipo": 71,
+        "nombre": "Corporacin Ocampo, Lira y Sierra",
+        "ciudad": "Vieja Italia",
+        "fundacion": "1977-09-14"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 1,
+      "fecha": "2025-04-19",
+      "estadio": "Corporacin Palomo-Arguello Stadium",
+      "equipoLocal": {
+        "id_equipo": 67,
+        "nombre": "Tello S. R.L. de C.V.",
+        "ciudad": "Vieja Líbano",
+        "fundacion": "1940-10-23"
+      },
+      "equipoVisitante": {
+        "id_equipo": 35,
+        "nombre": "Partida-Vallejo",
+        "ciudad": "Vieja República de Corea",
+        "fundacion": "1994-06-13"
+      },
+      "goles_local": 5,
+      "goles_visitante": 0
+    },
+    "minutos_jugados": 71,
+    "goles": 1,
+    "asistencias": 1,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 60,
+    "jugador": {
+      "id_jugador": 14,
+      "nombre": "Mtro. Paulina Moya",
+      "dorsal": 14,
+      "fecha_nac": "1992-08-15",
+      "nacionalidad": "Turkmenistán",
+      "equipo": {
+        "id_equipo": 20,
+        "nombre": "Galarza-Arce",
+        "ciudad": "Vieja Brunei Darussalam",
+        "fundacion": "1988-12-17"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 94,
+      "fecha": "2025-06-02",
+      "estadio": "Tejeda-Arias S. R.L. de C.V. Stadium",
+      "equipoLocal": {
+        "id_equipo": 62,
+        "nombre": "Almaraz-Enríquez",
+        "ciudad": "Nueva China",
+        "fundacion": "1940-07-21"
+      },
+      "equipoVisitante": {
+        "id_equipo": 26,
+        "nombre": "Barrera y Cabán S.A.",
+        "ciudad": "Nueva Sudán",
+        "fundacion": "2018-05-02"
+      },
+      "goles_local": 4,
+      "goles_visitante": 3
+    },
+    "minutos_jugados": 83,
+    "goles": 2,
+    "asistencias": 2,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 61,
+    "jugador": {
+      "id_jugador": 96,
+      "nombre": "Ing. Helena Jaimes",
+      "dorsal": 13,
+      "fecha_nac": "2000-11-15",
+      "nacionalidad": "Barbados",
+      "equipo": {
+        "id_equipo": 13,
+        "nombre": "Grupo Rolón y Ramírez",
+        "ciudad": "San Arcelia de la Montaña",
+        "fundacion": "1942-08-24"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 71,
+      "fecha": "2025-01-27",
+      "estadio": "Villegas, Escalante y Santana Stadium",
+      "equipoLocal": {
+        "id_equipo": 36,
+        "nombre": "Santana-Ojeda S. R.L. de C.V.",
+        "ciudad": "Vieja Tonga",
+        "fundacion": "1990-05-14"
+      },
+      "equipoVisitante": {
+        "id_equipo": 24,
+        "nombre": "Barraza-Carreón",
+        "ciudad": "Nueva Bahrein",
+        "fundacion": "1921-03-15"
+      },
+      "goles_local": 2,
+      "goles_visitante": 5
+    },
+    "minutos_jugados": 46,
+    "goles": 1,
+    "asistencias": 3,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 62,
+    "jugador": {
+      "id_jugador": 14,
+      "nombre": "Mtro. Paulina Moya",
+      "dorsal": 14,
+      "fecha_nac": "1992-08-15",
+      "nacionalidad": "Turkmenistán",
+      "equipo": {
+        "id_equipo": 20,
+        "nombre": "Galarza-Arce",
+        "ciudad": "Vieja Brunei Darussalam",
+        "fundacion": "1988-12-17"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 23,
+      "fecha": "2025-01-19",
+      "estadio": "Meraz y Naranjo e Hijos Stadium",
+      "equipoLocal": {
+        "id_equipo": 24,
+        "nombre": "Barraza-Carreón",
+        "ciudad": "Nueva Bahrein",
+        "fundacion": "1921-03-15"
+      },
+      "equipoVisitante": {
+        "id_equipo": 97,
+        "nombre": "Vega-Rocha y Asociados",
+        "ciudad": "Nueva Finlandia",
+        "fundacion": "1927-08-19"
+      },
+      "goles_local": 1,
+      "goles_visitante": 4
+    },
+    "minutos_jugados": 89,
+    "goles": 3,
+    "asistencias": 0,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 63,
+    "jugador": {
+      "id_jugador": 21,
+      "nombre": "Rubén Salas",
+      "dorsal": 4,
+      "fecha_nac": "1987-05-10",
+      "nacionalidad": "Paraguay",
+      "equipo": {
+        "id_equipo": 86,
+        "nombre": "Grupo Gaytán y Coronado",
+        "ciudad": "San Antonio de la Montaña",
+        "fundacion": "2013-01-20"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 55,
+      "fecha": "2025-03-05",
+      "estadio": "Tovar y Esquibel S.A. de C.V. Stadium",
+      "equipoLocal": {
+        "id_equipo": 44,
+        "nombre": "Laboratorios Rosas-Hidalgo",
+        "ciudad": "Vieja Bahamas",
+        "fundacion": "1934-01-17"
+      },
+      "equipoVisitante": {
+        "id_equipo": 27,
+        "nombre": "Luna, Chavarría y Castellanos",
+        "ciudad": "Vieja Tuvalu",
+        "fundacion": "1950-04-27"
+      },
+      "goles_local": 1,
+      "goles_visitante": 4
+    },
+    "minutos_jugados": 53,
+    "goles": 3,
+    "asistencias": 0,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 64,
+    "jugador": {
+      "id_jugador": 31,
+      "nombre": "Alta  Gracia Francisco Rolón Villareal",
+      "dorsal": 4,
+      "fecha_nac": "1988-10-03",
+      "nacionalidad": "Croacia",
+      "equipo": {
+        "id_equipo": 4,
+        "nombre": "Pantoja e Hijos",
+        "ciudad": "San Samuel los bajos",
+        "fundacion": "2008-02-27"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 94,
+      "fecha": "2025-06-02",
+      "estadio": "Tejeda-Arias S. R.L. de C.V. Stadium",
+      "equipoLocal": {
+        "id_equipo": 62,
+        "nombre": "Almaraz-Enríquez",
+        "ciudad": "Nueva China",
+        "fundacion": "1940-07-21"
+      },
+      "equipoVisitante": {
+        "id_equipo": 26,
+        "nombre": "Barrera y Cabán S.A.",
+        "ciudad": "Nueva Sudán",
+        "fundacion": "2018-05-02"
+      },
+      "goles_local": 4,
+      "goles_visitante": 3
+    },
+    "minutos_jugados": 76,
+    "goles": 1,
+    "asistencias": 1,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 65,
+    "jugador": {
+      "id_jugador": 36,
+      "nombre": "Oswaldo Isabel Samaniego Zepeda",
+      "dorsal": 7,
+      "fecha_nac": "2003-02-27",
+      "nacionalidad": "Camerún",
+      "equipo": {
+        "id_equipo": 2,
+        "nombre": "Miramontes-Carrero S.A.",
+        "ciudad": "San David de la Montaña",
+        "fundacion": "2017-04-17"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 19,
+      "fecha": "2025-01-18",
+      "estadio": "Girón, Correa y Cardona Stadium",
+      "equipoLocal": {
+        "id_equipo": 90,
+        "nombre": "Bahena y Merino S.A.",
+        "ciudad": "Nueva Bahrein",
+        "fundacion": "1960-04-05"
+      },
+      "equipoVisitante": {
+        "id_equipo": 6,
+        "nombre": "Tórrez y Tórrez S.A.",
+        "ciudad": "Nueva Kazajstán",
+        "fundacion": "1963-04-09"
+      },
+      "goles_local": 0,
+      "goles_visitante": 4
+    },
+    "minutos_jugados": 42,
+    "goles": 2,
+    "asistencias": 1,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 66,
+    "jugador": {
+      "id_jugador": 83,
+      "nombre": "Mario Cintrón Hernádez",
+      "dorsal": 26,
+      "fecha_nac": "1996-12-13",
+      "nacionalidad": "Belice",
+      "equipo": {
+        "id_equipo": 26,
+        "nombre": "Barrera y Cabán S.A.",
+        "ciudad": "Nueva Sudán",
+        "fundacion": "2018-05-02"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 96,
+      "fecha": "2025-02-28",
+      "estadio": "Laboratorios Osorio-de Jesús Stadium",
+      "equipoLocal": {
+        "id_equipo": 12,
+        "nombre": "Herrera y Jaramillo y Asociados",
+        "ciudad": "San Pascual de la Montaña",
+        "fundacion": "1921-10-12"
+      },
+      "equipoVisitante": {
+        "id_equipo": 81,
+        "nombre": "Club Cabrera-Bermúdez",
+        "ciudad": "Nueva Turkmenistán",
+        "fundacion": "1952-02-12"
+      },
+      "goles_local": 4,
+      "goles_visitante": 0
+    },
+    "minutos_jugados": 36,
+    "goles": 2,
+    "asistencias": 1,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 67,
+    "jugador": {
+      "id_jugador": 6,
+      "nombre": "Yolanda Juárez",
+      "dorsal": 21,
+      "fecha_nac": "1999-02-17",
+      "nacionalidad": "Finlandia",
+      "equipo": {
+        "id_equipo": 84,
+        "nombre": "Orozco S.C.",
+        "ciudad": "Nueva Portugal",
+        "fundacion": "1976-03-23"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 78,
+      "fecha": "2025-01-08",
+      "estadio": "Longoria-Chávez Stadium",
+      "equipoLocal": {
+        "id_equipo": 11,
+        "nombre": "Garay-Burgos A.C.",
+        "ciudad": "San Laura los bajos",
+        "fundacion": "1942-11-06"
+      },
+      "equipoVisitante": {
+        "id_equipo": 58,
+        "nombre": "Cazares, Lemus y Muñoz",
+        "ciudad": "Vieja Madagascar",
+        "fundacion": "1976-09-10"
+      },
+      "goles_local": 4,
+      "goles_visitante": 1
+    },
+    "minutos_jugados": 55,
+    "goles": 3,
+    "asistencias": 2,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 68,
+    "jugador": {
+      "id_jugador": 91,
+      "nombre": "Débora Soledad Otero",
+      "dorsal": 12,
+      "fecha_nac": "1998-02-11",
+      "nacionalidad": "Azerbaiyán",
+      "equipo": {
+        "id_equipo": 22,
+        "nombre": "de León, Barela y Puga",
+        "ciudad": "San Fernando de la Montaña",
+        "fundacion": "2001-06-22"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 73,
+      "fecha": "2025-06-20",
+      "estadio": "Proyectos Palacios, Archuleta y Monroy Stadium",
+      "equipoLocal": {
+        "id_equipo": 6,
+        "nombre": "Tórrez y Tórrez S.A.",
+        "ciudad": "Nueva Kazajstán",
+        "fundacion": "1963-04-09"
+      },
+      "equipoVisitante": {
+        "id_equipo": 29,
+        "nombre": "Treviño y Asociados",
+        "ciudad": "San Sara los bajos",
+        "fundacion": "1978-06-10"
+      },
+      "goles_local": 0,
+      "goles_visitante": 3
+    },
+    "minutos_jugados": 46,
+    "goles": 2,
+    "asistencias": 0,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 69,
+    "jugador": {
+      "id_jugador": 60,
+      "nombre": "Benito Montenegro",
+      "dorsal": 11,
+      "fecha_nac": "1986-07-05",
+      "nacionalidad": "Kirguistán",
+      "equipo": {
+        "id_equipo": 50,
+        "nombre": "Zayas y Casanova A.C.",
+        "ciudad": "Vieja Bahrein",
+        "fundacion": "1984-03-16"
+      },
+      "posicion": "Mediocampista"
+    },
+    "partido": {
+      "id_partido": 5,
+      "fecha": "2025-01-25",
+      "estadio": "Despacho Muñoz, Munguía y Feliciano Stadium",
+      "equipoLocal": {
+        "id_equipo": 75,
+        "nombre": "Soliz-Lozada",
+        "ciudad": "Vieja Guatemala",
+        "fundacion": "1995-04-05"
+      },
+      "equipoVisitante": {
+        "id_equipo": 2,
+        "nombre": "Miramontes-Carrero S.A.",
+        "ciudad": "San David de la Montaña",
+        "fundacion": "2017-04-17"
+      },
+      "goles_local": 0,
+      "goles_visitante": 3
+    },
+    "minutos_jugados": 48,
+    "goles": 0,
+    "asistencias": 0,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 70,
+    "jugador": {
+      "id_jugador": 27,
+      "nombre": "Fidel Flórez",
+      "dorsal": 26,
+      "fecha_nac": "1998-12-10",
+      "nacionalidad": "Suriname",
+      "equipo": {
+        "id_equipo": 98,
+        "nombre": "Club Márquez, Barragán y Aguirre",
+        "ciudad": "Nueva Ecuador",
+        "fundacion": "2019-08-04"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 52,
+      "fecha": "2025-03-11",
+      "estadio": "Grupo Fierro y Palomo Stadium",
+      "equipoLocal": {
+        "id_equipo": 34,
+        "nombre": "Estévez S.C.",
+        "ciudad": "San Lucas de la Montaña",
+        "fundacion": "2006-06-12"
+      },
+      "equipoVisitante": {
+        "id_equipo": 96,
+        "nombre": "Escobedo, Altamirano y Páez",
+        "ciudad": "Vieja Israel",
+        "fundacion": "1963-07-19"
+      },
+      "goles_local": 0,
+      "goles_visitante": 5
+    },
+    "minutos_jugados": 83,
+    "goles": 0,
+    "asistencias": 3,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 71,
+    "jugador": {
+      "id_jugador": 57,
+      "nombre": "Yeni Guillermina Marín Villalpando",
+      "dorsal": 2,
+      "fecha_nac": "1990-09-21",
+      "nacionalidad": "ex República Yugoslava de Macedonia",
+      "equipo": {
+        "id_equipo": 45,
+        "nombre": "Marrero y de la Crúz S.A. de C.V.",
+        "ciudad": "Nueva Malta",
+        "fundacion": "1953-10-22"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 9,
+      "fecha": "2025-05-21",
+      "estadio": "Zaragoza-Carrasco e Hijos Stadium",
+      "equipoLocal": {
+        "id_equipo": 93,
+        "nombre": "Negrete-Puente S. R.L. de C.V.",
+        "ciudad": "Vieja Mauricio",
+        "fundacion": "1957-03-21"
+      },
+      "equipoVisitante": {
+        "id_equipo": 57,
+        "nombre": "Carvajal y Tafoya e Hijos",
+        "ciudad": "Vieja Belarús",
+        "fundacion": "2019-08-24"
+      },
+      "goles_local": 4,
+      "goles_visitante": 3
+    },
+    "minutos_jugados": 74,
+    "goles": 3,
+    "asistencias": 3,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 72,
+    "jugador": {
+      "id_jugador": 24,
+      "nombre": "Sr(a). Mateo Alcala",
+      "dorsal": 7,
+      "fecha_nac": "1996-07-06",
+      "nacionalidad": "Federación de Rusia",
+      "equipo": {
+        "id_equipo": 12,
+        "nombre": "Herrera y Jaramillo y Asociados",
+        "ciudad": "San Pascual de la Montaña",
+        "fundacion": "1921-10-12"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 40,
+      "fecha": "2025-04-29",
+      "estadio": "Lomeli-Rodarte Stadium",
+      "equipoLocal": {
+        "id_equipo": 32,
+        "nombre": "Proyectos Gracia y Bahena",
+        "ciudad": "San Aurelio los altos",
+        "fundacion": "1945-01-14"
+      },
+      "equipoVisitante": {
+        "id_equipo": 66,
+        "nombre": "Corporacin Romo-Pichardo",
+        "ciudad": "Nueva Senegal",
+        "fundacion": "1972-11-03"
+      },
+      "goles_local": 4,
+      "goles_visitante": 4
+    },
+    "minutos_jugados": 61,
+    "goles": 1,
+    "asistencias": 0,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 73,
+    "jugador": {
+      "id_jugador": 14,
+      "nombre": "Mtro. Paulina Moya",
+      "dorsal": 14,
+      "fecha_nac": "1992-08-15",
+      "nacionalidad": "Turkmenistán",
+      "equipo": {
+        "id_equipo": 20,
+        "nombre": "Galarza-Arce",
+        "ciudad": "Vieja Brunei Darussalam",
+        "fundacion": "1988-12-17"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 84,
+      "fecha": "2025-02-16",
+      "estadio": "Santacruz-Merino Stadium",
+      "equipoLocal": {
+        "id_equipo": 4,
+        "nombre": "Pantoja e Hijos",
+        "ciudad": "San Samuel los bajos",
+        "fundacion": "2008-02-27"
+      },
+      "equipoVisitante": {
+        "id_equipo": 18,
+        "nombre": "Industrias Gálvez, Ramos y Ibarra",
+        "ciudad": "San Roberto los bajos",
+        "fundacion": "1921-11-06"
+      },
+      "goles_local": 4,
+      "goles_visitante": 0
+    },
+    "minutos_jugados": 39,
+    "goles": 0,
+    "asistencias": 2,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 74,
+    "jugador": {
+      "id_jugador": 16,
+      "nombre": "Andrés Rodarte",
+      "dorsal": 14,
+      "fecha_nac": "2006-07-06",
+      "nacionalidad": "Myanmar",
+      "equipo": {
+        "id_equipo": 7,
+        "nombre": "Hernádez S. R.L. de C.V.",
+        "ciudad": "San Gustavo los bajos",
+        "fundacion": "1954-12-18"
+      },
+      "posicion": "Delantero"
+    },
+    "partido": {
+      "id_partido": 50,
+      "fecha": "2025-03-12",
+      "estadio": "Alvarado y Sarabia S.A. Stadium",
+      "equipoLocal": {
+        "id_equipo": 85,
+        "nombre": "Velázquez, Rolón y Gallegos",
+        "ciudad": "San Gabriel de la Montaña",
+        "fundacion": "1997-10-22"
+      },
+      "equipoVisitante": {
+        "id_equipo": 27,
+        "nombre": "Luna, Chavarría y Castellanos",
+        "ciudad": "Vieja Tuvalu",
+        "fundacion": "1950-04-27"
+      },
+      "goles_local": 5,
+      "goles_visitante": 2
+    },
+    "minutos_jugados": 89,
+    "goles": 2,
+    "asistencias": 0,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 75,
+    "jugador": {
+      "id_jugador": 28,
+      "nombre": "Ing. Barbara de la Crúz",
+      "dorsal": 23,
+      "fecha_nac": "1999-02-12",
+      "nacionalidad": "Nueva Zelandia",
+      "equipo": {
+        "id_equipo": 19,
+        "nombre": "Abreu e Hijos",
+        "ciudad": "San Alvaro los bajos",
+        "fundacion": "1957-07-12"
+      },
+      "posicion": "Delantero"
+    },
+    "partido": {
+      "id_partido": 2,
+      "fecha": "2025-03-14",
+      "estadio": "Corporacin Ortiz-Anaya Stadium",
+      "equipoLocal": {
+        "id_equipo": 66,
+        "nombre": "Corporacin Romo-Pichardo",
+        "ciudad": "Nueva Senegal",
+        "fundacion": "1972-11-03"
+      },
+      "equipoVisitante": {
+        "id_equipo": 51,
+        "nombre": "Despacho Rivera, Valentín y Muñiz",
+        "ciudad": "San Rodolfo de la Montaña",
+        "fundacion": "1979-03-28"
+      },
+      "goles_local": 0,
+      "goles_visitante": 3
+    },
+    "minutos_jugados": 65,
+    "goles": 2,
+    "asistencias": 2,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 76,
+    "jugador": {
+      "id_jugador": 20,
+      "nombre": "Paulina Jonás Alcala Raya",
+      "dorsal": 15,
+      "fecha_nac": "1993-03-27",
+      "nacionalidad": "Burundi",
+      "equipo": {
+        "id_equipo": 92,
+        "nombre": "Laboratorios Canales, Bétancourt y Henríquez",
+        "ciudad": "Vieja Lesotho",
+        "fundacion": "1934-08-12"
+      },
+      "posicion": "Mediocampista"
+    },
+    "partido": {
+      "id_partido": 20,
+      "fecha": "2025-05-12",
+      "estadio": "Herrera-Saiz S.C. Stadium",
+      "equipoLocal": {
+        "id_equipo": 34,
+        "nombre": "Estévez S.C.",
+        "ciudad": "San Lucas de la Montaña",
+        "fundacion": "2006-06-12"
+      },
+      "equipoVisitante": {
+        "id_equipo": 54,
+        "nombre": "Corporacin Arroyo, Téllez y Ceballos",
+        "ciudad": "San Jesús los altos",
+        "fundacion": "1943-09-19"
+      },
+      "goles_local": 4,
+      "goles_visitante": 1
+    },
+    "minutos_jugados": 48,
+    "goles": 2,
+    "asistencias": 1,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 77,
+    "jugador": {
+      "id_jugador": 64,
+      "nombre": "Alejandro Guajardo",
+      "dorsal": 28,
+      "fecha_nac": "2003-05-06",
+      "nacionalidad": "Ghana",
+      "equipo": {
+        "id_equipo": 61,
+        "nombre": "Pulido y Longoria y Asociados",
+        "ciudad": "Nueva Tailandia",
+        "fundacion": "1994-01-22"
+      },
+      "posicion": "Delantero"
+    },
+    "partido": {
+      "id_partido": 100,
+      "fecha": "2025-05-25",
+      "estadio": "Club Ontiveros y Centeno Stadium",
+      "equipoLocal": {
+        "id_equipo": 45,
+        "nombre": "Marrero y de la Crúz S.A. de C.V.",
+        "ciudad": "Nueva Malta",
+        "fundacion": "1953-10-22"
+      },
+      "equipoVisitante": {
+        "id_equipo": 31,
+        "nombre": "Industrias Nieves-Castro",
+        "ciudad": "Nueva República Árabe Siria",
+        "fundacion": "1983-12-30"
+      },
+      "goles_local": 4,
+      "goles_visitante": 0
+    },
+    "minutos_jugados": 86,
+    "goles": 1,
+    "asistencias": 1,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 78,
+    "jugador": {
+      "id_jugador": 31,
+      "nombre": "Alta  Gracia Francisco Rolón Villareal",
+      "dorsal": 4,
+      "fecha_nac": "1988-10-03",
+      "nacionalidad": "Croacia",
+      "equipo": {
+        "id_equipo": 4,
+        "nombre": "Pantoja e Hijos",
+        "ciudad": "San Samuel los bajos",
+        "fundacion": "2008-02-27"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 46,
+      "fecha": "2025-06-01",
+      "estadio": "Grupo Ulloa-Madera Stadium",
+      "equipoLocal": {
+        "id_equipo": 92,
+        "nombre": "Laboratorios Canales, Bétancourt y Henríquez",
+        "ciudad": "Vieja Lesotho",
+        "fundacion": "1934-08-12"
+      },
+      "equipoVisitante": {
+        "id_equipo": 90,
+        "nombre": "Bahena y Merino S.A.",
+        "ciudad": "Nueva Bahrein",
+        "fundacion": "1960-04-05"
+      },
+      "goles_local": 2,
+      "goles_visitante": 4
+    },
+    "minutos_jugados": 57,
+    "goles": 3,
+    "asistencias": 0,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 79,
+    "jugador": {
+      "id_jugador": 37,
+      "nombre": "Yolanda Alejandra Salazar Partida",
+      "dorsal": 14,
+      "fecha_nac": "1984-11-09",
+      "nacionalidad": "República Unida de Tanzanía",
+      "equipo": {
+        "id_equipo": 13,
+        "nombre": "Grupo Rolón y Ramírez",
+        "ciudad": "San Arcelia de la Montaña",
+        "fundacion": "1942-08-24"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 23,
+      "fecha": "2025-01-19",
+      "estadio": "Meraz y Naranjo e Hijos Stadium",
+      "equipoLocal": {
+        "id_equipo": 24,
+        "nombre": "Barraza-Carreón",
+        "ciudad": "Nueva Bahrein",
+        "fundacion": "1921-03-15"
+      },
+      "equipoVisitante": {
+        "id_equipo": 97,
+        "nombre": "Vega-Rocha y Asociados",
+        "ciudad": "Nueva Finlandia",
+        "fundacion": "1927-08-19"
+      },
+      "goles_local": 1,
+      "goles_visitante": 4
+    },
+    "minutos_jugados": 34,
+    "goles": 1,
+    "asistencias": 3,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 80,
+    "jugador": {
+      "id_jugador": 97,
+      "nombre": "Jonás Cano",
+      "dorsal": 29,
+      "fecha_nac": "1993-05-14",
+      "nacionalidad": "Pakistán",
+      "equipo": {
+        "id_equipo": 81,
+        "nombre": "Club Cabrera-Bermúdez",
+        "ciudad": "Nueva Turkmenistán",
+        "fundacion": "1952-02-12"
+      },
+      "posicion": "Mediocampista"
+    },
+    "partido": {
+      "id_partido": 27,
+      "fecha": "2025-03-17",
+      "estadio": "Parra y Espinoza y Asociados Stadium",
+      "equipoLocal": {
+        "id_equipo": 79,
+        "nombre": "Menéndez y Pizarro S.A.",
+        "ciudad": "San Elvira de la Montaña",
+        "fundacion": "1996-07-23"
+      },
+      "equipoVisitante": {
+        "id_equipo": 44,
+        "nombre": "Laboratorios Rosas-Hidalgo",
+        "ciudad": "Vieja Bahamas",
+        "fundacion": "1934-01-17"
+      },
+      "goles_local": 3,
+      "goles_visitante": 1
+    },
+    "minutos_jugados": 65,
+    "goles": 1,
+    "asistencias": 0,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 81,
+    "jugador": {
+      "id_jugador": 56,
+      "nombre": "Lic. Beatriz Ceballos",
+      "dorsal": 22,
+      "fecha_nac": "1985-08-26",
+      "nacionalidad": "Paraguay",
+      "equipo": {
+        "id_equipo": 32,
+        "nombre": "Proyectos Gracia y Bahena",
+        "ciudad": "San Aurelio los altos",
+        "fundacion": "1945-01-14"
+      },
+      "posicion": "Mediocampista"
+    },
+    "partido": {
+      "id_partido": 3,
+      "fecha": "2025-03-05",
+      "estadio": "Corporacin Rincón y Medina Stadium",
+      "equipoLocal": {
+        "id_equipo": 28,
+        "nombre": "Ruiz A.C.",
+        "ciudad": "San Ruby los bajos",
+        "fundacion": "1983-10-26"
+      },
+      "equipoVisitante": {
+        "id_equipo": 35,
+        "nombre": "Partida-Vallejo",
+        "ciudad": "Vieja República de Corea",
+        "fundacion": "1994-06-13"
+      },
+      "goles_local": 2,
+      "goles_visitante": 0
+    },
+    "minutos_jugados": 90,
+    "goles": 2,
+    "asistencias": 0,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 82,
+    "jugador": {
+      "id_jugador": 24,
+      "nombre": "Sr(a). Mateo Alcala",
+      "dorsal": 7,
+      "fecha_nac": "1996-07-06",
+      "nacionalidad": "Federación de Rusia",
+      "equipo": {
+        "id_equipo": 12,
+        "nombre": "Herrera y Jaramillo y Asociados",
+        "ciudad": "San Pascual de la Montaña",
+        "fundacion": "1921-10-12"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 73,
+      "fecha": "2025-06-20",
+      "estadio": "Proyectos Palacios, Archuleta y Monroy Stadium",
+      "equipoLocal": {
+        "id_equipo": 6,
+        "nombre": "Tórrez y Tórrez S.A.",
+        "ciudad": "Nueva Kazajstán",
+        "fundacion": "1963-04-09"
+      },
+      "equipoVisitante": {
+        "id_equipo": 29,
+        "nombre": "Treviño y Asociados",
+        "ciudad": "San Sara los bajos",
+        "fundacion": "1978-06-10"
+      },
+      "goles_local": 0,
+      "goles_visitante": 3
+    },
+    "minutos_jugados": 87,
+    "goles": 2,
+    "asistencias": 2,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 83,
+    "jugador": {
+      "id_jugador": 29,
+      "nombre": "Ana María Montenegro",
+      "dorsal": 9,
+      "fecha_nac": "1987-01-31",
+      "nacionalidad": "Comoras",
+      "equipo": {
+        "id_equipo": 40,
+        "nombre": "Leal S.C.",
+        "ciudad": "Vieja Finlandia",
+        "fundacion": "1968-09-25"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 6,
+      "fecha": "2025-01-19",
+      "estadio": "Galindo-Nevárez y Asociados Stadium",
+      "equipoLocal": {
+        "id_equipo": 72,
+        "nombre": "López y Arriaga e Hijos",
+        "ciudad": "San Iván de la Montaña",
+        "fundacion": "1944-10-01"
+      },
+      "equipoVisitante": {
+        "id_equipo": 30,
+        "nombre": "Mondragón, Vera y Cardenas",
+        "ciudad": "Nueva Saint Kitts y Nevis",
+        "fundacion": "1982-01-10"
+      },
+      "goles_local": 2,
+      "goles_visitante": 4
+    },
+    "minutos_jugados": 44,
+    "goles": 2,
+    "asistencias": 0,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 84,
+    "jugador": {
+      "id_jugador": 33,
+      "nombre": "Arcelia Rivero",
+      "dorsal": 7,
+      "fecha_nac": "1988-07-17",
+      "nacionalidad": "Reino Unido de Gran Bretaña e Irlanda del Norte",
+      "equipo": {
+        "id_equipo": 2,
+        "nombre": "Miramontes-Carrero S.A.",
+        "ciudad": "San David de la Montaña",
+        "fundacion": "2017-04-17"
+      },
+      "posicion": "Mediocampista"
+    },
+    "partido": {
+      "id_partido": 18,
+      "fecha": "2025-02-11",
+      "estadio": "Ramos y Paz e Hijos Stadium",
+      "equipoLocal": {
+        "id_equipo": 84,
+        "nombre": "Orozco S.C.",
+        "ciudad": "Nueva Portugal",
+        "fundacion": "1976-03-23"
+      },
+      "equipoVisitante": {
+        "id_equipo": 28,
+        "nombre": "Ruiz A.C.",
+        "ciudad": "San Ruby los bajos",
+        "fundacion": "1983-10-26"
+      },
+      "goles_local": 1,
+      "goles_visitante": 1
+    },
+    "minutos_jugados": 74,
+    "goles": 0,
+    "asistencias": 3,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 85,
+    "jugador": {
+      "id_jugador": 31,
+      "nombre": "Alta  Gracia Francisco Rolón Villareal",
+      "dorsal": 4,
+      "fecha_nac": "1988-10-03",
+      "nacionalidad": "Croacia",
+      "equipo": {
+        "id_equipo": 4,
+        "nombre": "Pantoja e Hijos",
+        "ciudad": "San Samuel los bajos",
+        "fundacion": "2008-02-27"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 78,
+      "fecha": "2025-01-08",
+      "estadio": "Longoria-Chávez Stadium",
+      "equipoLocal": {
+        "id_equipo": 11,
+        "nombre": "Garay-Burgos A.C.",
+        "ciudad": "San Laura los bajos",
+        "fundacion": "1942-11-06"
+      },
+      "equipoVisitante": {
+        "id_equipo": 58,
+        "nombre": "Cazares, Lemus y Muñoz",
+        "ciudad": "Vieja Madagascar",
+        "fundacion": "1976-09-10"
+      },
+      "goles_local": 4,
+      "goles_visitante": 1
+    },
+    "minutos_jugados": 66,
+    "goles": 2,
+    "asistencias": 0,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 86,
+    "jugador": {
+      "id_jugador": 82,
+      "nombre": "Elena Reina Lucio",
+      "dorsal": 19,
+      "fecha_nac": "1999-06-09",
+      "nacionalidad": "Botswana",
+      "equipo": {
+        "id_equipo": 28,
+        "nombre": "Ruiz A.C.",
+        "ciudad": "San Ruby los bajos",
+        "fundacion": "1983-10-26"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 68,
+      "fecha": "2025-05-08",
+      "estadio": "Quintero y Asociados Stadium",
+      "equipoLocal": {
+        "id_equipo": 12,
+        "nombre": "Herrera y Jaramillo y Asociados",
+        "ciudad": "San Pascual de la Montaña",
+        "fundacion": "1921-10-12"
+      },
+      "equipoVisitante": {
+        "id_equipo": 7,
+        "nombre": "Hernádez S. R.L. de C.V.",
+        "ciudad": "San Gustavo los bajos",
+        "fundacion": "1954-12-18"
+      },
+      "goles_local": 2,
+      "goles_visitante": 0
+    },
+    "minutos_jugados": 83,
+    "goles": 0,
+    "asistencias": 1,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 87,
+    "jugador": {
+      "id_jugador": 90,
+      "nombre": "Ing. Adán Raya",
+      "dorsal": 10,
+      "fecha_nac": "1992-11-20",
+      "nacionalidad": "Namibia",
+      "equipo": {
+        "id_equipo": 11,
+        "nombre": "Garay-Burgos A.C.",
+        "ciudad": "San Laura los bajos",
+        "fundacion": "1942-11-06"
+      },
+      "posicion": "Mediocampista"
+    },
+    "partido": {
+      "id_partido": 51,
+      "fecha": "2025-06-27",
+      "estadio": "Marrero y Casillas e Hijos Stadium",
+      "equipoLocal": {
+        "id_equipo": 54,
+        "nombre": "Corporacin Arroyo, Téllez y Ceballos",
+        "ciudad": "San Jesús los altos",
+        "fundacion": "1943-09-19"
+      },
+      "equipoVisitante": {
+        "id_equipo": 20,
+        "nombre": "Galarza-Arce",
+        "ciudad": "Vieja Brunei Darussalam",
+        "fundacion": "1988-12-17"
+      },
+      "goles_local": 4,
+      "goles_visitante": 0
+    },
+    "minutos_jugados": 40,
+    "goles": 1,
+    "asistencias": 3,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 88,
+    "jugador": {
+      "id_jugador": 45,
+      "nombre": "Ing. José Manuél Gonzales",
+      "dorsal": 27,
+      "fecha_nac": "1992-03-19",
+      "nacionalidad": "Irán",
+      "equipo": {
+        "id_equipo": 19,
+        "nombre": "Abreu e Hijos",
+        "ciudad": "San Alvaro los bajos",
+        "fundacion": "1957-07-12"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 24,
+      "fecha": "2025-01-02",
+      "estadio": "Pineda-Zepeda S.A. de C.V. Stadium",
+      "equipoLocal": {
+        "id_equipo": 9,
+        "nombre": "Bernal y Griego S.A. de C.V.",
+        "ciudad": "San Esmeralda los altos",
+        "fundacion": "1925-02-24"
+      },
+      "equipoVisitante": {
+        "id_equipo": 38,
+        "nombre": "Grupo Rangel, Carbajal y Amador",
+        "ciudad": "San Bernabé los altos",
+        "fundacion": "1935-09-25"
+      },
+      "goles_local": 4,
+      "goles_visitante": 3
+    },
+    "minutos_jugados": 55,
+    "goles": 1,
+    "asistencias": 3,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 89,
+    "jugador": {
+      "id_jugador": 1,
+      "nombre": "Antonio Alberto Zaragoza",
+      "dorsal": 14,
+      "fecha_nac": "2002-08-19",
+      "nacionalidad": "República Centroafricana",
+      "equipo": {
+        "id_equipo": 100,
+        "nombre": "Corporacin Leal, Collazo y Hernández",
+        "ciudad": "Nueva Bahrein",
+        "fundacion": "1928-03-25"
+      },
+      "posicion": "Mediocampista"
+    },
+    "partido": {
+      "id_partido": 1,
+      "fecha": "2025-04-19",
+      "estadio": "Corporacin Palomo-Arguello Stadium",
+      "equipoLocal": {
+        "id_equipo": 67,
+        "nombre": "Tello S. R.L. de C.V.",
+        "ciudad": "Vieja Líbano",
+        "fundacion": "1940-10-23"
+      },
+      "equipoVisitante": {
+        "id_equipo": 35,
+        "nombre": "Partida-Vallejo",
+        "ciudad": "Vieja República de Corea",
+        "fundacion": "1994-06-13"
+      },
+      "goles_local": 5,
+      "goles_visitante": 0
+    },
+    "minutos_jugados": 35,
+    "goles": 1,
+    "asistencias": 2,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 90,
+    "jugador": {
+      "id_jugador": 85,
+      "nombre": "Dr. Miguel Ángel Cantú",
+      "dorsal": 28,
+      "fecha_nac": "1996-01-15",
+      "nacionalidad": "Portugal",
+      "equipo": {
+        "id_equipo": 47,
+        "nombre": "Grupo Trejo y Naranjo",
+        "ciudad": "San Fidel los altos",
+        "fundacion": "1999-06-06"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 52,
+      "fecha": "2025-03-11",
+      "estadio": "Grupo Fierro y Palomo Stadium",
+      "equipoLocal": {
+        "id_equipo": 34,
+        "nombre": "Estévez S.C.",
+        "ciudad": "San Lucas de la Montaña",
+        "fundacion": "2006-06-12"
+      },
+      "equipoVisitante": {
+        "id_equipo": 96,
+        "nombre": "Escobedo, Altamirano y Páez",
+        "ciudad": "Vieja Israel",
+        "fundacion": "1963-07-19"
+      },
+      "goles_local": 0,
+      "goles_visitante": 5
+    },
+    "minutos_jugados": 85,
+    "goles": 2,
+    "asistencias": 3,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 91,
+    "jugador": {
+      "id_jugador": 70,
+      "nombre": "Hugo Antonio Irizarry",
+      "dorsal": 17,
+      "fecha_nac": "2005-05-27",
+      "nacionalidad": "Serbia",
+      "equipo": {
+        "id_equipo": 55,
+        "nombre": "Riojas-Cortés A.C.",
+        "ciudad": "Vieja Armenia",
+        "fundacion": "1947-02-06"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 62,
+      "fecha": "2025-05-17",
+      "estadio": "Ponce-Jaimes y Asociados Stadium",
+      "equipoLocal": {
+        "id_equipo": 84,
+        "nombre": "Orozco S.C.",
+        "ciudad": "Nueva Portugal",
+        "fundacion": "1976-03-23"
+      },
+      "equipoVisitante": {
+        "id_equipo": 10,
+        "nombre": "Quiñónez-Tapia",
+        "ciudad": "Nueva Vanuatu",
+        "fundacion": "1963-08-06"
+      },
+      "goles_local": 4,
+      "goles_visitante": 5
+    },
+    "minutos_jugados": 60,
+    "goles": 0,
+    "asistencias": 1,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 92,
+    "jugador": {
+      "id_jugador": 8,
+      "nombre": "Nadia Francisco Solorio Prieto",
+      "dorsal": 13,
+      "fecha_nac": "1992-06-02",
+      "nacionalidad": "República Federal Democrática de Nepal",
+      "equipo": {
+        "id_equipo": 82,
+        "nombre": "Quintero-Gallardo S.C.",
+        "ciudad": "San Nayeli los bajos",
+        "fundacion": "1995-08-21"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 79,
+      "fecha": "2025-05-22",
+      "estadio": "Reséndez y Báez e Hijos Stadium",
+      "equipoLocal": {
+        "id_equipo": 12,
+        "nombre": "Herrera y Jaramillo y Asociados",
+        "ciudad": "San Pascual de la Montaña",
+        "fundacion": "1921-10-12"
+      },
+      "equipoVisitante": {
+        "id_equipo": 56,
+        "nombre": "Laboratorios Zayas, Irizarry y Malave",
+        "ciudad": "San Gustavo de la Montaña",
+        "fundacion": "2004-09-22"
+      },
+      "goles_local": 4,
+      "goles_visitante": 0
+    },
+    "minutos_jugados": 57,
+    "goles": 0,
+    "asistencias": 2,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 93,
+    "jugador": {
+      "id_jugador": 52,
+      "nombre": "Eloisa Porfirio Barreto",
+      "dorsal": 1,
+      "fecha_nac": "1991-09-12",
+      "nacionalidad": "Trinidad y Tabago",
+      "equipo": {
+        "id_equipo": 74,
+        "nombre": "Proyectos Peña, Carrillo y Montañez",
+        "ciudad": "Nueva Malawi",
+        "fundacion": "1937-02-04"
+      },
+      "posicion": "Mediocampista"
+    },
+    "partido": {
+      "id_partido": 41,
+      "fecha": "2025-04-19",
+      "estadio": "Espino y Varela A.C. Stadium",
+      "equipoLocal": {
+        "id_equipo": 15,
+        "nombre": "Huerta-Munguía",
+        "ciudad": "San Joaquín los altos",
+        "fundacion": "1920-03-20"
+      },
+      "equipoVisitante": {
+        "id_equipo": 96,
+        "nombre": "Escobedo, Altamirano y Páez",
+        "ciudad": "Vieja Israel",
+        "fundacion": "1963-07-19"
+      },
+      "goles_local": 0,
+      "goles_visitante": 5
+    },
+    "minutos_jugados": 87,
+    "goles": 2,
+    "asistencias": 1,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 94,
+    "jugador": {
+      "id_jugador": 94,
+      "nombre": "Israel Felipe Herrera",
+      "dorsal": 14,
+      "fecha_nac": "1987-06-12",
+      "nacionalidad": "Jordania",
+      "equipo": {
+        "id_equipo": 9,
+        "nombre": "Bernal y Griego S.A. de C.V.",
+        "ciudad": "San Esmeralda los altos",
+        "fundacion": "1925-02-24"
+      },
+      "posicion": "Mediocampista"
+    },
+    "partido": {
+      "id_partido": 72,
+      "fecha": "2025-04-05",
+      "estadio": "Zamudio, Cedillo y Domínguez Stadium",
+      "equipoLocal": {
+        "id_equipo": 47,
+        "nombre": "Grupo Trejo y Naranjo",
+        "ciudad": "San Fidel los altos",
+        "fundacion": "1999-06-06"
+      },
+      "equipoVisitante": {
+        "id_equipo": 66,
+        "nombre": "Corporacin Romo-Pichardo",
+        "ciudad": "Nueva Senegal",
+        "fundacion": "1972-11-03"
+      },
+      "goles_local": 4,
+      "goles_visitante": 1
+    },
+    "minutos_jugados": 90,
+    "goles": 2,
+    "asistencias": 0,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 95,
+    "jugador": {
+      "id_jugador": 80,
+      "nombre": "Georgina Badillo",
+      "dorsal": 22,
+      "fecha_nac": "2005-10-16",
+      "nacionalidad": "Granada",
+      "equipo": {
+        "id_equipo": 31,
+        "nombre": "Industrias Nieves-Castro",
+        "ciudad": "Nueva República Árabe Siria",
+        "fundacion": "1983-12-30"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 63,
+      "fecha": "2025-03-01",
+      "estadio": "Rojas-Villalpando Stadium",
+      "equipoLocal": {
+        "id_equipo": 22,
+        "nombre": "de León, Barela y Puga",
+        "ciudad": "San Fernando de la Montaña",
+        "fundacion": "2001-06-22"
+      },
+      "equipoVisitante": {
+        "id_equipo": 19,
+        "nombre": "Abreu e Hijos",
+        "ciudad": "San Alvaro los bajos",
+        "fundacion": "1957-07-12"
+      },
+      "goles_local": 4,
+      "goles_visitante": 0
+    },
+    "minutos_jugados": 30,
+    "goles": 1,
+    "asistencias": 2,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 96,
+    "jugador": {
+      "id_jugador": 99,
+      "nombre": "Isabela Vanesa Arriaga",
+      "dorsal": 19,
+      "fecha_nac": "1994-08-28",
+      "nacionalidad": "Saint Kitts y Nevis",
+      "equipo": {
+        "id_equipo": 27,
+        "nombre": "Luna, Chavarría y Castellanos",
+        "ciudad": "Vieja Tuvalu",
+        "fundacion": "1950-04-27"
+      },
+      "posicion": "Portero"
+    },
+    "partido": {
+      "id_partido": 94,
+      "fecha": "2025-06-02",
+      "estadio": "Tejeda-Arias S. R.L. de C.V. Stadium",
+      "equipoLocal": {
+        "id_equipo": 62,
+        "nombre": "Almaraz-Enríquez",
+        "ciudad": "Nueva China",
+        "fundacion": "1940-07-21"
+      },
+      "equipoVisitante": {
+        "id_equipo": 26,
+        "nombre": "Barrera y Cabán S.A.",
+        "ciudad": "Nueva Sudán",
+        "fundacion": "2018-05-02"
+      },
+      "goles_local": 4,
+      "goles_visitante": 3
+    },
+    "minutos_jugados": 87,
+    "goles": 3,
+    "asistencias": 3,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 97,
+    "jugador": {
+      "id_jugador": 100,
+      "nombre": "Emilia Romero Reyes",
+      "dorsal": 11,
+      "fecha_nac": "1998-10-12",
+      "nacionalidad": "Rumania",
+      "equipo": {
+        "id_equipo": 39,
+        "nombre": "Miramontes-Durán y Asociados",
+        "ciudad": "Nueva Palau",
+        "fundacion": "2012-01-24"
+      },
+      "posicion": "Delantero"
+    },
+    "partido": {
+      "id_partido": 6,
+      "fecha": "2025-01-19",
+      "estadio": "Galindo-Nevárez y Asociados Stadium",
+      "equipoLocal": {
+        "id_equipo": 72,
+        "nombre": "López y Arriaga e Hijos",
+        "ciudad": "San Iván de la Montaña",
+        "fundacion": "1944-10-01"
+      },
+      "equipoVisitante": {
+        "id_equipo": 30,
+        "nombre": "Mondragón, Vera y Cardenas",
+        "ciudad": "Nueva Saint Kitts y Nevis",
+        "fundacion": "1982-01-10"
+      },
+      "goles_local": 2,
+      "goles_visitante": 4
+    },
+    "minutos_jugados": 72,
+    "goles": 1,
+    "asistencias": 1,
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 98,
+    "jugador": {
+      "id_jugador": 47,
+      "nombre": "Ing. Ernesto Villa",
+      "dorsal": 7,
+      "fecha_nac": "1996-03-29",
+      "nacionalidad": "República Dominicana",
+      "equipo": {
+        "id_equipo": 24,
+        "nombre": "Barraza-Carreón",
+        "ciudad": "Nueva Bahrein",
+        "fundacion": "1921-03-15"
+      },
+      "posicion": "Delantero"
+    },
+    "partido": {
+      "id_partido": 32,
+      "fecha": "2025-04-04",
+      "estadio": "Grupo Cornejo y Padilla Stadium",
+      "equipoLocal": {
+        "id_equipo": 55,
+        "nombre": "Riojas-Cortés A.C.",
+        "ciudad": "Vieja Armenia",
+        "fundacion": "1947-02-06"
+      },
+      "equipoVisitante": {
+        "id_equipo": 32,
+        "nombre": "Proyectos Gracia y Bahena",
+        "ciudad": "San Aurelio los altos",
+        "fundacion": "1945-01-14"
+      },
+      "goles_local": 0,
+      "goles_visitante": 1
+    },
+    "minutos_jugados": 63,
+    "goles": 3,
+    "asistencias": 2,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 1
+  },
+  {
+    "id_estadistica": 99,
+    "jugador": {
+      "id_jugador": 98,
+      "nombre": "Úrsula Orosco Trujillo",
+      "dorsal": 25,
+      "fecha_nac": "1986-09-25",
+      "nacionalidad": "Chipre",
+      "equipo": {
+        "id_equipo": 39,
+        "nombre": "Miramontes-Durán y Asociados",
+        "ciudad": "Nueva Palau",
+        "fundacion": "2012-01-24"
+      },
+      "posicion": "Defensa"
+    },
+    "partido": {
+      "id_partido": 2,
+      "fecha": "2025-03-14",
+      "estadio": "Corporacin Ortiz-Anaya Stadium",
+      "equipoLocal": {
+        "id_equipo": 66,
+        "nombre": "Corporacin Romo-Pichardo",
+        "ciudad": "Nueva Senegal",
+        "fundacion": "1972-11-03"
+      },
+      "equipoVisitante": {
+        "id_equipo": 51,
+        "nombre": "Despacho Rivera, Valentín y Muñiz",
+        "ciudad": "San Rodolfo de la Montaña",
+        "fundacion": "1979-03-28"
+      },
+      "goles_local": 0,
+      "goles_visitante": 3
+    },
+    "minutos_jugados": 62,
+    "goles": 0,
+    "asistencias": 1,
+    "tarjetas_amarillas": 1,
+    "tarjetas_rojas": 0
+  },
+  {
+    "id_estadistica": 100,
+    "jugador": {
+      "id_jugador": 26,
+      "nombre": "Ramiro Aguilera",
+      "dorsal": 2,
+      "fecha_nac": "1999-08-29",
+      "nacionalidad": "Eritrea",
+      "equipo": {
+        "id_equipo": 13,
+        "nombre": "Grupo Rolón y Ramírez",
+        "ciudad": "San Arcelia de la Montaña",
+        "fundacion": "1942-08-24"
+      },
+      "posicion": "Mediocampista"
+    },
+    "partido": {
+      "id_partido": 98,
+      "fecha": "2025-02-07",
+      "estadio": "Valentín S.C. Stadium",
+      "equipoLocal": {
+        "id_equipo": 20,
+        "nombre": "Galarza-Arce",
+        "ciudad": "Vieja Brunei Darussalam",
+        "fundacion": "1988-12-17"
+      },
+      "equipoVisitante": {
+        "id_equipo": 24,
+        "nombre": "Barraza-Carreón",
+        "ciudad": "Nueva Bahrein",
+        "fundacion": "1921-03-15"
+      },
+      "goles_local": 3,
+      "goles_visitante": 3
+    },
+    "minutos_jugados": 70,
+    "goles": 0,
+    "asistencias": 3,
+    "tarjetas_amarillas": 0,
+    "tarjetas_rojas": 0
+  }
+]

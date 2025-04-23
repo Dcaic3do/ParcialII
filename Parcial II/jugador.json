@@ -1,0 +1,1402 @@
+[
+  {
+    "id_jugador": 1,
+    "nombre": "Antonio Alberto Zaragoza",
+    "dorsal": 14,
+    "fecha_nac": "2002-08-19",
+    "nacionalidad": "República Centroafricana",
+    "equipo": {
+      "id_equipo": 100,
+      "nombre": "Corporacin Leal, Collazo y Hernández",
+      "ciudad": "Nueva Bahrein",
+      "fundacion": "1928-03-25"
+    },
+    "posicion": "Mediocampista"
+  },
+  {
+    "id_jugador": 2,
+    "nombre": "Sr(a). Armando Laboy",
+    "dorsal": 28,
+    "fecha_nac": "2007-03-02",
+    "nacionalidad": "Niger",
+    "equipo": {
+      "id_equipo": 99,
+      "nombre": "Parra, Urrutia y Valle",
+      "ciudad": "San Víctor los bajos",
+      "fundacion": "2018-11-24"
+    },
+    "posicion": "Delantero"
+  },
+  {
+    "id_jugador": 3,
+    "nombre": "Laura María del Carmen Alemán",
+    "dorsal": 2,
+    "fecha_nac": "2001-11-15",
+    "nacionalidad": "Saint Kitts y Nevis",
+    "equipo": {
+      "id_equipo": 63,
+      "nombre": "Terán-Macías",
+      "ciudad": "San Estela de la Montaña",
+      "fundacion": "1923-06-09"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 4,
+    "nombre": "Teodoro Oswaldo Molina",
+    "dorsal": 24,
+    "fecha_nac": "1992-02-22",
+    "nacionalidad": "Reino Unido de Gran Bretaña e Irlanda del Norte",
+    "equipo": {
+      "id_equipo": 85,
+      "nombre": "Velázquez, Rolón y Gallegos",
+      "ciudad": "San Gabriel de la Montaña",
+      "fundacion": "1997-10-22"
+    },
+    "posicion": "Delantero"
+  },
+  {
+    "id_jugador": 5,
+    "nombre": "Miriam Mascareñas Contreras",
+    "dorsal": 11,
+    "fecha_nac": "2004-12-27",
+    "nacionalidad": "Portugal",
+    "equipo": {
+      "id_equipo": 71,
+      "nombre": "Corporacin Ocampo, Lira y Sierra",
+      "ciudad": "Vieja Italia",
+      "fundacion": "1977-09-14"
+    },
+    "posicion": "Mediocampista"
+  },
+  {
+    "id_jugador": 6,
+    "nombre": "Yolanda Juárez",
+    "dorsal": 21,
+    "fecha_nac": "1999-02-17",
+    "nacionalidad": "Finlandia",
+    "equipo": {
+      "id_equipo": 84,
+      "nombre": "Orozco S.C.",
+      "ciudad": "Nueva Portugal",
+      "fundacion": "1976-03-23"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 7,
+    "nombre": "Nicolás Adame Murillo",
+    "dorsal": 17,
+    "fecha_nac": "1998-08-31",
+    "nacionalidad": "Eslovaquia",
+    "equipo": {
+      "id_equipo": 27,
+      "nombre": "Luna, Chavarría y Castellanos",
+      "ciudad": "Vieja Tuvalu",
+      "fundacion": "1950-04-27"
+    },
+    "posicion": "Delantero"
+  },
+  {
+    "id_jugador": 8,
+    "nombre": "Nadia Francisco Solorio Prieto",
+    "dorsal": 13,
+    "fecha_nac": "1992-06-02",
+    "nacionalidad": "República Federal Democrática de Nepal",
+    "equipo": {
+      "id_equipo": 82,
+      "nombre": "Quintero-Gallardo S.C.",
+      "ciudad": "San Nayeli los bajos",
+      "fundacion": "1995-08-21"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 9,
+    "nombre": "Susana Hermelinda Farías Lerma",
+    "dorsal": 25,
+    "fecha_nac": "1988-05-31",
+    "nacionalidad": "Afganistán",
+    "equipo": {
+      "id_equipo": 1,
+      "nombre": "Corporacin Aranda-Peres",
+      "ciudad": "Vieja Alemania",
+      "fundacion": "1948-06-16"
+    },
+    "posicion": "Mediocampista"
+  },
+  {
+    "id_jugador": 10,
+    "nombre": "Lic. Catalina Guerrero",
+    "dorsal": 24,
+    "fecha_nac": "1986-03-28",
+    "nacionalidad": "Fiji",
+    "equipo": {
+      "id_equipo": 22,
+      "nombre": "de León, Barela y Puga",
+      "ciudad": "San Fernando de la Montaña",
+      "fundacion": "2001-06-22"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 11,
+    "nombre": "Lic. Silvia Tirado",
+    "dorsal": 13,
+    "fecha_nac": "2000-05-27",
+    "nacionalidad": "Líbano",
+    "equipo": {
+      "id_equipo": 85,
+      "nombre": "Velázquez, Rolón y Gallegos",
+      "ciudad": "San Gabriel de la Montaña",
+      "fundacion": "1997-10-22"
+    },
+    "posicion": "Mediocampista"
+  },
+  {
+    "id_jugador": 12,
+    "nombre": "Lic. Gilberto Gracia",
+    "dorsal": 6,
+    "fecha_nac": "2006-07-13",
+    "nacionalidad": "Malawi",
+    "equipo": {
+      "id_equipo": 61,
+      "nombre": "Pulido y Longoria y Asociados",
+      "ciudad": "Nueva Tailandia",
+      "fundacion": "1994-01-22"
+    },
+    "posicion": "Delantero"
+  },
+  {
+    "id_jugador": 13,
+    "nombre": "Ing. Eugenio Hernandes",
+    "dorsal": 16,
+    "fecha_nac": "1990-06-24",
+    "nacionalidad": "Albania",
+    "equipo": {
+      "id_equipo": 60,
+      "nombre": "Montañez y Velázquez S.A. de C.V.",
+      "ciudad": "San Ramón los bajos",
+      "fundacion": "1937-04-11"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 14,
+    "nombre": "Mtro. Paulina Moya",
+    "dorsal": 14,
+    "fecha_nac": "1992-08-15",
+    "nacionalidad": "Turkmenistán",
+    "equipo": {
+      "id_equipo": 20,
+      "nombre": "Galarza-Arce",
+      "ciudad": "Vieja Brunei Darussalam",
+      "fundacion": "1988-12-17"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 15,
+    "nombre": "Fabiola Casanova Muñoz",
+    "dorsal": 27,
+    "fecha_nac": "2005-02-21",
+    "nacionalidad": "Senegal",
+    "equipo": {
+      "id_equipo": 71,
+      "nombre": "Corporacin Ocampo, Lira y Sierra",
+      "ciudad": "Vieja Italia",
+      "fundacion": "1977-09-14"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 16,
+    "nombre": "Andrés Rodarte",
+    "dorsal": 14,
+    "fecha_nac": "2006-07-06",
+    "nacionalidad": "Myanmar",
+    "equipo": {
+      "id_equipo": 7,
+      "nombre": "Hernádez S. R.L. de C.V.",
+      "ciudad": "San Gustavo los bajos",
+      "fundacion": "1954-12-18"
+    },
+    "posicion": "Delantero"
+  },
+  {
+    "id_jugador": 17,
+    "nombre": "Mitzy Colunga Barajas",
+    "dorsal": 6,
+    "fecha_nac": "1997-04-06",
+    "nacionalidad": "Nueva Zelandia",
+    "equipo": {
+      "id_equipo": 27,
+      "nombre": "Luna, Chavarría y Castellanos",
+      "ciudad": "Vieja Tuvalu",
+      "fundacion": "1950-04-27"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 18,
+    "nombre": "Marcela Jiménez Sosa",
+    "dorsal": 2,
+    "fecha_nac": "1993-05-04",
+    "nacionalidad": "Emiratos Árabes Unidos",
+    "equipo": {
+      "id_equipo": 73,
+      "nombre": "Rico-Moya S.A. de C.V.",
+      "ciudad": "Nueva Austria",
+      "fundacion": "1961-04-29"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 19,
+    "nombre": "Concepción Miguel Miranda",
+    "dorsal": 28,
+    "fecha_nac": "1996-07-17",
+    "nacionalidad": "Madagascar",
+    "equipo": {
+      "id_equipo": 22,
+      "nombre": "de León, Barela y Puga",
+      "ciudad": "San Fernando de la Montaña",
+      "fundacion": "2001-06-22"
+    },
+    "posicion": "Mediocampista"
+  },
+  {
+    "id_jugador": 20,
+    "nombre": "Paulina Jonás Alcala Raya",
+    "dorsal": 15,
+    "fecha_nac": "1993-03-27",
+    "nacionalidad": "Burundi",
+    "equipo": {
+      "id_equipo": 92,
+      "nombre": "Laboratorios Canales, Bétancourt y Henríquez",
+      "ciudad": "Vieja Lesotho",
+      "fundacion": "1934-08-12"
+    },
+    "posicion": "Mediocampista"
+  },
+  {
+    "id_jugador": 21,
+    "nombre": "Rubén Salas",
+    "dorsal": 4,
+    "fecha_nac": "1987-05-10",
+    "nacionalidad": "Paraguay",
+    "equipo": {
+      "id_equipo": 86,
+      "nombre": "Grupo Gaytán y Coronado",
+      "ciudad": "San Antonio de la Montaña",
+      "fundacion": "2013-01-20"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 22,
+    "nombre": "José Guerrero",
+    "dorsal": 23,
+    "fecha_nac": "2005-07-03",
+    "nacionalidad": "Canadá",
+    "equipo": {
+      "id_equipo": 95,
+      "nombre": "Grupo Ballesteros-Piña",
+      "ciudad": "San Ramón los altos",
+      "fundacion": "2019-09-17"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 23,
+    "nombre": "Blanca Correa",
+    "dorsal": 3,
+    "fecha_nac": "1998-07-09",
+    "nacionalidad": "Bosnia y Herzegovina",
+    "equipo": {
+      "id_equipo": 28,
+      "nombre": "Ruiz A.C.",
+      "ciudad": "San Ruby los bajos",
+      "fundacion": "1983-10-26"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 24,
+    "nombre": "Sr(a). Mateo Alcala",
+    "dorsal": 7,
+    "fecha_nac": "1996-07-06",
+    "nacionalidad": "Federación de Rusia",
+    "equipo": {
+      "id_equipo": 12,
+      "nombre": "Herrera y Jaramillo y Asociados",
+      "ciudad": "San Pascual de la Montaña",
+      "fundacion": "1921-10-12"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 25,
+    "nombre": "Lorena Lomeli",
+    "dorsal": 23,
+    "fecha_nac": "1998-09-23",
+    "nacionalidad": "Bahrein",
+    "equipo": {
+      "id_equipo": 56,
+      "nombre": "Laboratorios Zayas, Irizarry y Malave",
+      "ciudad": "San Gustavo de la Montaña",
+      "fundacion": "2004-09-22"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 26,
+    "nombre": "Ramiro Aguilera",
+    "dorsal": 2,
+    "fecha_nac": "1999-08-29",
+    "nacionalidad": "Eritrea",
+    "equipo": {
+      "id_equipo": 13,
+      "nombre": "Grupo Rolón y Ramírez",
+      "ciudad": "San Arcelia de la Montaña",
+      "fundacion": "1942-08-24"
+    },
+    "posicion": "Mediocampista"
+  },
+  {
+    "id_jugador": 27,
+    "nombre": "Fidel Flórez",
+    "dorsal": 26,
+    "fecha_nac": "1998-12-10",
+    "nacionalidad": "Suriname",
+    "equipo": {
+      "id_equipo": 98,
+      "nombre": "Club Márquez, Barragán y Aguirre",
+      "ciudad": "Nueva Ecuador",
+      "fundacion": "2019-08-04"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 28,
+    "nombre": "Ing. Barbara de la Crúz",
+    "dorsal": 23,
+    "fecha_nac": "1999-02-12",
+    "nacionalidad": "Nueva Zelandia",
+    "equipo": {
+      "id_equipo": 19,
+      "nombre": "Abreu e Hijos",
+      "ciudad": "San Alvaro los bajos",
+      "fundacion": "1957-07-12"
+    },
+    "posicion": "Delantero"
+  },
+  {
+    "id_jugador": 29,
+    "nombre": "Ana María Montenegro",
+    "dorsal": 9,
+    "fecha_nac": "1987-01-31",
+    "nacionalidad": "Comoras",
+    "equipo": {
+      "id_equipo": 40,
+      "nombre": "Leal S.C.",
+      "ciudad": "Vieja Finlandia",
+      "fundacion": "1968-09-25"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 30,
+    "nombre": "Jonás Clara Crespo",
+    "dorsal": 15,
+    "fecha_nac": "1985-02-02",
+    "nacionalidad": "Trinidad y Tabago",
+    "equipo": {
+      "id_equipo": 64,
+      "nombre": "Orta-Alonzo",
+      "ciudad": "San Ramiro los bajos",
+      "fundacion": "2014-01-10"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 31,
+    "nombre": "Alta  Gracia Francisco Rolón Villareal",
+    "dorsal": 4,
+    "fecha_nac": "1988-10-03",
+    "nacionalidad": "Croacia",
+    "equipo": {
+      "id_equipo": 4,
+      "nombre": "Pantoja e Hijos",
+      "ciudad": "San Samuel los bajos",
+      "fundacion": "2008-02-27"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 32,
+    "nombre": "Linda Israel Gallardo",
+    "dorsal": 30,
+    "fecha_nac": "1995-07-22",
+    "nacionalidad": "Brasil",
+    "equipo": {
+      "id_equipo": 11,
+      "nombre": "Garay-Burgos A.C.",
+      "ciudad": "San Laura los bajos",
+      "fundacion": "1942-11-06"
+    },
+    "posicion": "Mediocampista"
+  },
+  {
+    "id_jugador": 33,
+    "nombre": "Arcelia Rivero",
+    "dorsal": 7,
+    "fecha_nac": "1988-07-17",
+    "nacionalidad": "Reino Unido de Gran Bretaña e Irlanda del Norte",
+    "equipo": {
+      "id_equipo": 2,
+      "nombre": "Miramontes-Carrero S.A.",
+      "ciudad": "San David de la Montaña",
+      "fundacion": "2017-04-17"
+    },
+    "posicion": "Mediocampista"
+  },
+  {
+    "id_jugador": 34,
+    "nombre": "Rebeca Pulido Sepúlveda",
+    "dorsal": 14,
+    "fecha_nac": "1991-09-15",
+    "nacionalidad": "Letonia",
+    "equipo": {
+      "id_equipo": 36,
+      "nombre": "Santana-Ojeda S. R.L. de C.V.",
+      "ciudad": "Vieja Tonga",
+      "fundacion": "1990-05-14"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 35,
+    "nombre": "José María Solorio",
+    "dorsal": 3,
+    "fecha_nac": "1987-09-27",
+    "nacionalidad": "Jamaica",
+    "equipo": {
+      "id_equipo": 17,
+      "nombre": "Carbajal S. R.L. de C.V.",
+      "ciudad": "Nueva Albania",
+      "fundacion": "1920-02-05"
+    },
+    "posicion": "Delantero"
+  },
+  {
+    "id_jugador": 36,
+    "nombre": "Oswaldo Isabel Samaniego Zepeda",
+    "dorsal": 7,
+    "fecha_nac": "2003-02-27",
+    "nacionalidad": "Camerún",
+    "equipo": {
+      "id_equipo": 2,
+      "nombre": "Miramontes-Carrero S.A.",
+      "ciudad": "San David de la Montaña",
+      "fundacion": "2017-04-17"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 37,
+    "nombre": "Yolanda Alejandra Salazar Partida",
+    "dorsal": 14,
+    "fecha_nac": "1984-11-09",
+    "nacionalidad": "República Unida de Tanzanía",
+    "equipo": {
+      "id_equipo": 13,
+      "nombre": "Grupo Rolón y Ramírez",
+      "ciudad": "San Arcelia de la Montaña",
+      "fundacion": "1942-08-24"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 38,
+    "nombre": "Jesús Carrero",
+    "dorsal": 6,
+    "fecha_nac": "2002-11-18",
+    "nacionalidad": "Tonga",
+    "equipo": {
+      "id_equipo": 92,
+      "nombre": "Laboratorios Canales, Bétancourt y Henríquez",
+      "ciudad": "Vieja Lesotho",
+      "fundacion": "1934-08-12"
+    },
+    "posicion": "Mediocampista"
+  },
+  {
+    "id_jugador": 39,
+    "nombre": "Marcela Helena Lozada",
+    "dorsal": 11,
+    "fecha_nac": "2007-01-31",
+    "nacionalidad": "Djibouti",
+    "equipo": {
+      "id_equipo": 13,
+      "nombre": "Grupo Rolón y Ramírez",
+      "ciudad": "San Arcelia de la Montaña",
+      "fundacion": "1942-08-24"
+    },
+    "posicion": "Mediocampista"
+  },
+  {
+    "id_jugador": 40,
+    "nombre": "Lic. Natalia Barrios",
+    "dorsal": 3,
+    "fecha_nac": "1992-11-12",
+    "nacionalidad": "Chile",
+    "equipo": {
+      "id_equipo": 97,
+      "nombre": "Vega-Rocha y Asociados",
+      "ciudad": "Nueva Finlandia",
+      "fundacion": "1927-08-19"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 41,
+    "nombre": "Ing. Gabino Ontiveros",
+    "dorsal": 3,
+    "fecha_nac": "1997-07-31",
+    "nacionalidad": "Camboya",
+    "equipo": {
+      "id_equipo": 80,
+      "nombre": "Industrias Ulibarri-Quintanilla",
+      "ciudad": "San Itzel de la Montaña",
+      "fundacion": "1976-03-03"
+    },
+    "posicion": "Delantero"
+  },
+  {
+    "id_jugador": 42,
+    "nombre": "Espartaco Prieto",
+    "dorsal": 26,
+    "fecha_nac": "2007-03-30",
+    "nacionalidad": "Lesotho",
+    "equipo": {
+      "id_equipo": 11,
+      "nombre": "Garay-Burgos A.C.",
+      "ciudad": "San Laura los bajos",
+      "fundacion": "1942-11-06"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 43,
+    "nombre": "Sandra Natalia Negrón",
+    "dorsal": 17,
+    "fecha_nac": "2006-08-20",
+    "nacionalidad": "Egipto",
+    "equipo": {
+      "id_equipo": 47,
+      "nombre": "Grupo Trejo y Naranjo",
+      "ciudad": "San Fidel los altos",
+      "fundacion": "1999-06-06"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 44,
+    "nombre": "Ángel Enrique Olivas Domínguez",
+    "dorsal": 29,
+    "fecha_nac": "1988-11-13",
+    "nacionalidad": "Chipre",
+    "equipo": {
+      "id_equipo": 84,
+      "nombre": "Orozco S.C.",
+      "ciudad": "Nueva Portugal",
+      "fundacion": "1976-03-23"
+    },
+    "posicion": "Delantero"
+  },
+  {
+    "id_jugador": 45,
+    "nombre": "Ing. José Manuél Gonzales",
+    "dorsal": 27,
+    "fecha_nac": "1992-03-19",
+    "nacionalidad": "Irán",
+    "equipo": {
+      "id_equipo": 19,
+      "nombre": "Abreu e Hijos",
+      "ciudad": "San Alvaro los bajos",
+      "fundacion": "1957-07-12"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 46,
+    "nombre": "Florencia Cornejo Iglesias",
+    "dorsal": 28,
+    "fecha_nac": "1996-01-12",
+    "nacionalidad": "Argelia",
+    "equipo": {
+      "id_equipo": 73,
+      "nombre": "Rico-Moya S.A. de C.V.",
+      "ciudad": "Nueva Austria",
+      "fundacion": "1961-04-29"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 47,
+    "nombre": "Ing. Ernesto Villa",
+    "dorsal": 7,
+    "fecha_nac": "1996-03-29",
+    "nacionalidad": "República Dominicana",
+    "equipo": {
+      "id_equipo": 24,
+      "nombre": "Barraza-Carreón",
+      "ciudad": "Nueva Bahrein",
+      "fundacion": "1921-03-15"
+    },
+    "posicion": "Delantero"
+  },
+  {
+    "id_jugador": 48,
+    "nombre": "Araceli Elena Corral",
+    "dorsal": 5,
+    "fecha_nac": "1986-03-19",
+    "nacionalidad": "Cabo Verde",
+    "equipo": {
+      "id_equipo": 86,
+      "nombre": "Grupo Gaytán y Coronado",
+      "ciudad": "San Antonio de la Montaña",
+      "fundacion": "2013-01-20"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 49,
+    "nombre": "Ivonne Débora Molina",
+    "dorsal": 27,
+    "fecha_nac": "1992-05-07",
+    "nacionalidad": "España",
+    "equipo": {
+      "id_equipo": 42,
+      "nombre": "Trujillo-Quintanilla S.A. de C.V.",
+      "ciudad": "San Jos los bajos",
+      "fundacion": "1945-03-04"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 50,
+    "nombre": "Cristobal Juana Saldaña",
+    "dorsal": 16,
+    "fecha_nac": "2006-06-08",
+    "nacionalidad": "Costa Rica",
+    "equipo": {
+      "id_equipo": 85,
+      "nombre": "Velázquez, Rolón y Gallegos",
+      "ciudad": "San Gabriel de la Montaña",
+      "fundacion": "1997-10-22"
+    },
+    "posicion": "Delantero"
+  },
+  {
+    "id_jugador": 51,
+    "nombre": "Natalia Quesada Avilés",
+    "dorsal": 25,
+    "fecha_nac": "2001-10-13",
+    "nacionalidad": "República Popular Democrática de Corea",
+    "equipo": {
+      "id_equipo": 95,
+      "nombre": "Grupo Ballesteros-Piña",
+      "ciudad": "San Ramón los altos",
+      "fundacion": "2019-09-17"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 52,
+    "nombre": "Eloisa Porfirio Barreto",
+    "dorsal": 1,
+    "fecha_nac": "1991-09-12",
+    "nacionalidad": "Trinidad y Tabago",
+    "equipo": {
+      "id_equipo": 74,
+      "nombre": "Proyectos Peña, Carrillo y Montañez",
+      "ciudad": "Nueva Malawi",
+      "fundacion": "1937-02-04"
+    },
+    "posicion": "Mediocampista"
+  },
+  {
+    "id_jugador": 53,
+    "nombre": "Lic. Reynaldo Gonzales",
+    "dorsal": 3,
+    "fecha_nac": "1999-04-19",
+    "nacionalidad": "India",
+    "equipo": {
+      "id_equipo": 89,
+      "nombre": "Proyectos Mata y León",
+      "ciudad": "San Virginia los bajos",
+      "fundacion": "1982-11-16"
+    },
+    "posicion": "Delantero"
+  },
+  {
+    "id_jugador": 54,
+    "nombre": "Josefina Dolores Alfaro",
+    "dorsal": 2,
+    "fecha_nac": "1987-12-16",
+    "nacionalidad": "Filipinas",
+    "equipo": {
+      "id_equipo": 27,
+      "nombre": "Luna, Chavarría y Castellanos",
+      "ciudad": "Vieja Tuvalu",
+      "fundacion": "1950-04-27"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 55,
+    "nombre": "Mtro. Nadia Fernández",
+    "dorsal": 19,
+    "fecha_nac": "1996-08-14",
+    "nacionalidad": "San Marino",
+    "equipo": {
+      "id_equipo": 6,
+      "nombre": "Tórrez y Tórrez S.A.",
+      "ciudad": "Nueva Kazajstán",
+      "fundacion": "1963-04-09"
+    },
+    "posicion": "Delantero"
+  },
+  {
+    "id_jugador": 56,
+    "nombre": "Lic. Beatriz Ceballos",
+    "dorsal": 22,
+    "fecha_nac": "1985-08-26",
+    "nacionalidad": "Paraguay",
+    "equipo": {
+      "id_equipo": 32,
+      "nombre": "Proyectos Gracia y Bahena",
+      "ciudad": "San Aurelio los altos",
+      "fundacion": "1945-01-14"
+    },
+    "posicion": "Mediocampista"
+  },
+  {
+    "id_jugador": 57,
+    "nombre": "Yeni Guillermina Marín Villalpando",
+    "dorsal": 2,
+    "fecha_nac": "1990-09-21",
+    "nacionalidad": "ex República Yugoslava de Macedonia",
+    "equipo": {
+      "id_equipo": 45,
+      "nombre": "Marrero y de la Crúz S.A. de C.V.",
+      "ciudad": "Nueva Malta",
+      "fundacion": "1953-10-22"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 58,
+    "nombre": "Flavio Citlali Niño",
+    "dorsal": 29,
+    "fecha_nac": "1986-12-08",
+    "nacionalidad": "Camerún",
+    "equipo": {
+      "id_equipo": 94,
+      "nombre": "Club Urrutia, Carmona y Becerra",
+      "ciudad": "San Adán los altos",
+      "fundacion": "1978-09-24"
+    },
+    "posicion": "Delantero"
+  },
+  {
+    "id_jugador": 59,
+    "nombre": "Octavio Luisa Alarcón Dueñas",
+    "dorsal": 15,
+    "fecha_nac": "2004-01-29",
+    "nacionalidad": "Uzbekistán",
+    "equipo": {
+      "id_equipo": 55,
+      "nombre": "Riojas-Cortés A.C.",
+      "ciudad": "Vieja Armenia",
+      "fundacion": "1947-02-06"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 60,
+    "nombre": "Benito Montenegro",
+    "dorsal": 11,
+    "fecha_nac": "1986-07-05",
+    "nacionalidad": "Kirguistán",
+    "equipo": {
+      "id_equipo": 50,
+      "nombre": "Zayas y Casanova A.C.",
+      "ciudad": "Vieja Bahrein",
+      "fundacion": "1984-03-16"
+    },
+    "posicion": "Mediocampista"
+  },
+  {
+    "id_jugador": 61,
+    "nombre": "Federico Ávalos",
+    "dorsal": 17,
+    "fecha_nac": "1999-06-07",
+    "nacionalidad": "Polonia",
+    "equipo": {
+      "id_equipo": 48,
+      "nombre": "Tello, Téllez y Mayorga",
+      "ciudad": "Vieja Burundi",
+      "fundacion": "1949-12-28"
+    },
+    "posicion": "Mediocampista"
+  },
+  {
+    "id_jugador": 62,
+    "nombre": "Carla Reina Véliz Oquendo",
+    "dorsal": 6,
+    "fecha_nac": "1993-06-09",
+    "nacionalidad": "Armenia",
+    "equipo": {
+      "id_equipo": 13,
+      "nombre": "Grupo Rolón y Ramírez",
+      "ciudad": "San Arcelia de la Montaña",
+      "fundacion": "1942-08-24"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 63,
+    "nombre": "Esther Sergio Benavides Verdugo",
+    "dorsal": 8,
+    "fecha_nac": "2005-08-15",
+    "nacionalidad": "Nauru",
+    "equipo": {
+      "id_equipo": 42,
+      "nombre": "Trujillo-Quintanilla S.A. de C.V.",
+      "ciudad": "San Jos los bajos",
+      "fundacion": "1945-03-04"
+    },
+    "posicion": "Mediocampista"
+  },
+  {
+    "id_jugador": 64,
+    "nombre": "Alejandro Guajardo",
+    "dorsal": 28,
+    "fecha_nac": "2003-05-06",
+    "nacionalidad": "Ghana",
+    "equipo": {
+      "id_equipo": 61,
+      "nombre": "Pulido y Longoria y Asociados",
+      "ciudad": "Nueva Tailandia",
+      "fundacion": "1994-01-22"
+    },
+    "posicion": "Delantero"
+  },
+  {
+    "id_jugador": 65,
+    "nombre": "Darío Zavala Serrano",
+    "dorsal": 5,
+    "fecha_nac": "1995-06-29",
+    "nacionalidad": "Kuwait",
+    "equipo": {
+      "id_equipo": 12,
+      "nombre": "Herrera y Jaramillo y Asociados",
+      "ciudad": "San Pascual de la Montaña",
+      "fundacion": "1921-10-12"
+    },
+    "posicion": "Mediocampista"
+  },
+  {
+    "id_jugador": 66,
+    "nombre": "Rolando Cabrera Rosario",
+    "dorsal": 11,
+    "fecha_nac": "1986-01-28",
+    "nacionalidad": "India",
+    "equipo": {
+      "id_equipo": 88,
+      "nombre": "Gracia, Ochoa y Malave",
+      "ciudad": "Nueva Madagascar",
+      "fundacion": "1953-12-28"
+    },
+    "posicion": "Mediocampista"
+  },
+  {
+    "id_jugador": 67,
+    "nombre": "Mariano Mondragón Mora",
+    "dorsal": 15,
+    "fecha_nac": "2001-07-12",
+    "nacionalidad": "Eslovenia",
+    "equipo": {
+      "id_equipo": 91,
+      "nombre": "Club Valadez y Granado",
+      "ciudad": "San Nelly los bajos",
+      "fundacion": "1964-05-30"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 68,
+    "nombre": "Mauro Sierra",
+    "dorsal": 12,
+    "fecha_nac": "1989-01-22",
+    "nacionalidad": "Iraq",
+    "equipo": {
+      "id_equipo": 31,
+      "nombre": "Industrias Nieves-Castro",
+      "ciudad": "Nueva República Árabe Siria",
+      "fundacion": "1983-12-30"
+    },
+    "posicion": "Delantero"
+  },
+  {
+    "id_jugador": 69,
+    "nombre": "Dr. Amalia Mora",
+    "dorsal": 6,
+    "fecha_nac": "2007-03-26",
+    "nacionalidad": "Vietman",
+    "equipo": {
+      "id_equipo": 77,
+      "nombre": "Navarro S.C.",
+      "ciudad": "Vieja Seychelles",
+      "fundacion": "1951-12-24"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 70,
+    "nombre": "Hugo Antonio Irizarry",
+    "dorsal": 17,
+    "fecha_nac": "2005-05-27",
+    "nacionalidad": "Serbia",
+    "equipo": {
+      "id_equipo": 55,
+      "nombre": "Riojas-Cortés A.C.",
+      "ciudad": "Vieja Armenia",
+      "fundacion": "1947-02-06"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 71,
+    "nombre": "Mtro. Francisco Javier Sosa",
+    "dorsal": 8,
+    "fecha_nac": "1985-07-29",
+    "nacionalidad": "Haití",
+    "equipo": {
+      "id_equipo": 61,
+      "nombre": "Pulido y Longoria y Asociados",
+      "ciudad": "Nueva Tailandia",
+      "fundacion": "1994-01-22"
+    },
+    "posicion": "Delantero"
+  },
+  {
+    "id_jugador": 72,
+    "nombre": "Bianca Guillermo Suárez Villanueva",
+    "dorsal": 10,
+    "fecha_nac": "1994-09-23",
+    "nacionalidad": "Bhután",
+    "equipo": {
+      "id_equipo": 6,
+      "nombre": "Tórrez y Tórrez S.A.",
+      "ciudad": "Nueva Kazajstán",
+      "fundacion": "1963-04-09"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 73,
+    "nombre": "Flavio Sierra Duarte",
+    "dorsal": 30,
+    "fecha_nac": "1998-02-27",
+    "nacionalidad": "Liechtenstein",
+    "equipo": {
+      "id_equipo": 49,
+      "nombre": "Meléndez S.C.",
+      "ciudad": "San Ana los bajos",
+      "fundacion": "1968-11-29"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 74,
+    "nombre": "Aurelio Sessa Romo Patiño",
+    "dorsal": 12,
+    "fecha_nac": "1997-03-30",
+    "nacionalidad": "Senegal",
+    "equipo": {
+      "id_equipo": 52,
+      "nombre": "Ceballos-Caldera",
+      "ciudad": "San Amanda de la Montaña",
+      "fundacion": "1984-07-16"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 75,
+    "nombre": "Esmeralda Cortés",
+    "dorsal": 14,
+    "fecha_nac": "2007-01-25",
+    "nacionalidad": "Brunei Darussalam",
+    "equipo": {
+      "id_equipo": 14,
+      "nombre": "Carrasco y Escobar S.A. de C.V.",
+      "ciudad": "Vieja Botswana",
+      "fundacion": "1938-02-25"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 76,
+    "nombre": "Eva Nava",
+    "dorsal": 29,
+    "fecha_nac": "1988-08-09",
+    "nacionalidad": "Bélgica",
+    "equipo": {
+      "id_equipo": 63,
+      "nombre": "Terán-Macías",
+      "ciudad": "San Estela de la Montaña",
+      "fundacion": "1923-06-09"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 77,
+    "nombre": "Salma Zepeda Rubio",
+    "dorsal": 12,
+    "fecha_nac": "1992-04-08",
+    "nacionalidad": "Sudán",
+    "equipo": {
+      "id_equipo": 86,
+      "nombre": "Grupo Gaytán y Coronado",
+      "ciudad": "San Antonio de la Montaña",
+      "fundacion": "2013-01-20"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 78,
+    "nombre": "Jaime Horacio Abreu",
+    "dorsal": 13,
+    "fecha_nac": "1990-12-15",
+    "nacionalidad": "Bangladesh",
+    "equipo": {
+      "id_equipo": 75,
+      "nombre": "Soliz-Lozada",
+      "ciudad": "Vieja Guatemala",
+      "fundacion": "1995-04-05"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 79,
+    "nombre": "Teresa Lerma",
+    "dorsal": 30,
+    "fecha_nac": "2001-09-14",
+    "nacionalidad": "República de Moldova",
+    "equipo": {
+      "id_equipo": 4,
+      "nombre": "Pantoja e Hijos",
+      "ciudad": "San Samuel los bajos",
+      "fundacion": "2008-02-27"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 80,
+    "nombre": "Georgina Badillo",
+    "dorsal": 22,
+    "fecha_nac": "2005-10-16",
+    "nacionalidad": "Granada",
+    "equipo": {
+      "id_equipo": 31,
+      "nombre": "Industrias Nieves-Castro",
+      "ciudad": "Nueva República Árabe Siria",
+      "fundacion": "1983-12-30"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 81,
+    "nombre": "Zoé Claudia Rubio Covarrubias",
+    "dorsal": 2,
+    "fecha_nac": "1996-03-18",
+    "nacionalidad": "Marruecos",
+    "equipo": {
+      "id_equipo": 49,
+      "nombre": "Meléndez S.C.",
+      "ciudad": "San Ana los bajos",
+      "fundacion": "1968-11-29"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 82,
+    "nombre": "Elena Reina Lucio",
+    "dorsal": 19,
+    "fecha_nac": "1999-06-09",
+    "nacionalidad": "Botswana",
+    "equipo": {
+      "id_equipo": 28,
+      "nombre": "Ruiz A.C.",
+      "ciudad": "San Ruby los bajos",
+      "fundacion": "1983-10-26"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 83,
+    "nombre": "Mario Cintrón Hernádez",
+    "dorsal": 26,
+    "fecha_nac": "1996-12-13",
+    "nacionalidad": "Belice",
+    "equipo": {
+      "id_equipo": 26,
+      "nombre": "Barrera y Cabán S.A.",
+      "ciudad": "Nueva Sudán",
+      "fundacion": "2018-05-02"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 84,
+    "nombre": "Micaela Soliz Orellana",
+    "dorsal": 18,
+    "fecha_nac": "1987-03-02",
+    "nacionalidad": "Tonga",
+    "equipo": {
+      "id_equipo": 45,
+      "nombre": "Marrero y de la Crúz S.A. de C.V.",
+      "ciudad": "Nueva Malta",
+      "fundacion": "1953-10-22"
+    },
+    "posicion": "Mediocampista"
+  },
+  {
+    "id_jugador": 85,
+    "nombre": "Dr. Miguel Ángel Cantú",
+    "dorsal": 28,
+    "fecha_nac": "1996-01-15",
+    "nacionalidad": "Portugal",
+    "equipo": {
+      "id_equipo": 47,
+      "nombre": "Grupo Trejo y Naranjo",
+      "ciudad": "San Fidel los altos",
+      "fundacion": "1999-06-06"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 86,
+    "nombre": "Luis Córdova Cardona",
+    "dorsal": 30,
+    "fecha_nac": "1992-01-13",
+    "nacionalidad": "Bahamas",
+    "equipo": {
+      "id_equipo": 19,
+      "nombre": "Abreu e Hijos",
+      "ciudad": "San Alvaro los bajos",
+      "fundacion": "1957-07-12"
+    },
+    "posicion": "Mediocampista"
+  },
+  {
+    "id_jugador": 87,
+    "nombre": "Sr(a). Emilio Padrón",
+    "dorsal": 19,
+    "fecha_nac": "1986-01-04",
+    "nacionalidad": "Burkina Faso",
+    "equipo": {
+      "id_equipo": 81,
+      "nombre": "Club Cabrera-Bermúdez",
+      "ciudad": "Nueva Turkmenistán",
+      "fundacion": "1952-02-12"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 88,
+    "nombre": "Dolores Lorena Navarro Altamirano",
+    "dorsal": 15,
+    "fecha_nac": "1991-02-28",
+    "nacionalidad": "Alemania",
+    "equipo": {
+      "id_equipo": 25,
+      "nombre": "Industrias Negrete y Concepción",
+      "ciudad": "San Renato los bajos",
+      "fundacion": "1996-07-20"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 89,
+    "nombre": "Lic. Vicente Soliz",
+    "dorsal": 25,
+    "fecha_nac": "1994-08-23",
+    "nacionalidad": "Trinidad y Tabago",
+    "equipo": {
+      "id_equipo": 54,
+      "nombre": "Corporacin Arroyo, Téllez y Ceballos",
+      "ciudad": "San Jesús los altos",
+      "fundacion": "1943-09-19"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 90,
+    "nombre": "Ing. Adán Raya",
+    "dorsal": 10,
+    "fecha_nac": "1992-11-20",
+    "nacionalidad": "Namibia",
+    "equipo": {
+      "id_equipo": 11,
+      "nombre": "Garay-Burgos A.C.",
+      "ciudad": "San Laura los bajos",
+      "fundacion": "1942-11-06"
+    },
+    "posicion": "Mediocampista"
+  },
+  {
+    "id_jugador": 91,
+    "nombre": "Débora Soledad Otero",
+    "dorsal": 12,
+    "fecha_nac": "1998-02-11",
+    "nacionalidad": "Azerbaiyán",
+    "equipo": {
+      "id_equipo": 22,
+      "nombre": "de León, Barela y Puga",
+      "ciudad": "San Fernando de la Montaña",
+      "fundacion": "2001-06-22"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 92,
+    "nombre": "Renato Brito",
+    "dorsal": 6,
+    "fecha_nac": "1997-06-06",
+    "nacionalidad": "República Árabe Siria",
+    "equipo": {
+      "id_equipo": 49,
+      "nombre": "Meléndez S.C.",
+      "ciudad": "San Ana los bajos",
+      "fundacion": "1968-11-29"
+    },
+    "posicion": "Delantero"
+  },
+  {
+    "id_jugador": 93,
+    "nombre": "Francisca Ordóñez Sandoval",
+    "dorsal": 18,
+    "fecha_nac": "2005-02-19",
+    "nacionalidad": "Sudán del Sur",
+    "equipo": {
+      "id_equipo": 65,
+      "nombre": "Sanabria y Villalobos S.A. de C.V.",
+      "ciudad": "San Aldo los altos",
+      "fundacion": "2009-08-26"
+    },
+    "posicion": "Delantero"
+  },
+  {
+    "id_jugador": 94,
+    "nombre": "Israel Felipe Herrera",
+    "dorsal": 14,
+    "fecha_nac": "1987-06-12",
+    "nacionalidad": "Jordania",
+    "equipo": {
+      "id_equipo": 9,
+      "nombre": "Bernal y Griego S.A. de C.V.",
+      "ciudad": "San Esmeralda los altos",
+      "fundacion": "1925-02-24"
+    },
+    "posicion": "Mediocampista"
+  },
+  {
+    "id_jugador": 95,
+    "nombre": "Mtro. Luis Guardado",
+    "dorsal": 24,
+    "fecha_nac": "1999-02-07",
+    "nacionalidad": "Guatemala",
+    "equipo": {
+      "id_equipo": 29,
+      "nombre": "Treviño y Asociados",
+      "ciudad": "San Sara los bajos",
+      "fundacion": "1978-06-10"
+    },
+    "posicion": "Delantero"
+  },
+  {
+    "id_jugador": 96,
+    "nombre": "Ing. Helena Jaimes",
+    "dorsal": 13,
+    "fecha_nac": "2000-11-15",
+    "nacionalidad": "Barbados",
+    "equipo": {
+      "id_equipo": 13,
+      "nombre": "Grupo Rolón y Ramírez",
+      "ciudad": "San Arcelia de la Montaña",
+      "fundacion": "1942-08-24"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 97,
+    "nombre": "Jonás Cano",
+    "dorsal": 29,
+    "fecha_nac": "1993-05-14",
+    "nacionalidad": "Pakistán",
+    "equipo": {
+      "id_equipo": 81,
+      "nombre": "Club Cabrera-Bermúdez",
+      "ciudad": "Nueva Turkmenistán",
+      "fundacion": "1952-02-12"
+    },
+    "posicion": "Mediocampista"
+  },
+  {
+    "id_jugador": 98,
+    "nombre": "Úrsula Orosco Trujillo",
+    "dorsal": 25,
+    "fecha_nac": "1986-09-25",
+    "nacionalidad": "Chipre",
+    "equipo": {
+      "id_equipo": 39,
+      "nombre": "Miramontes-Durán y Asociados",
+      "ciudad": "Nueva Palau",
+      "fundacion": "2012-01-24"
+    },
+    "posicion": "Defensa"
+  },
+  {
+    "id_jugador": 99,
+    "nombre": "Isabela Vanesa Arriaga",
+    "dorsal": 19,
+    "fecha_nac": "1994-08-28",
+    "nacionalidad": "Saint Kitts y Nevis",
+    "equipo": {
+      "id_equipo": 27,
+      "nombre": "Luna, Chavarría y Castellanos",
+      "ciudad": "Vieja Tuvalu",
+      "fundacion": "1950-04-27"
+    },
+    "posicion": "Portero"
+  },
+  {
+    "id_jugador": 100,
+    "nombre": "Emilia Romero Reyes",
+    "dorsal": 11,
+    "fecha_nac": "1998-10-12",
+    "nacionalidad": "Rumania",
+    "equipo": {
+      "id_equipo": 39,
+      "nombre": "Miramontes-Durán y Asociados",
+      "ciudad": "Nueva Palau",
+      "fundacion": "2012-01-24"
+    },
+    "posicion": "Delantero"
+  }
+]

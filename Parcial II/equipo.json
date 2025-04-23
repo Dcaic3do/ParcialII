@@ -1,0 +1,602 @@
+[
+  {
+    "id_equipo": 1,
+    "nombre": "Corporacin Aranda-Peres",
+    "ciudad": "Vieja Alemania",
+    "fundacion": "1948-06-16"
+  },
+  {
+    "id_equipo": 2,
+    "nombre": "Miramontes-Carrero S.A.",
+    "ciudad": "San David de la Montaña",
+    "fundacion": "2017-04-17"
+  },
+  {
+    "id_equipo": 3,
+    "nombre": "Frías-Pacheco",
+    "ciudad": "Nueva Dinamarca",
+    "fundacion": "1956-02-22"
+  },
+  {
+    "id_equipo": 4,
+    "nombre": "Pantoja e Hijos",
+    "ciudad": "San Samuel los bajos",
+    "fundacion": "2008-02-27"
+  },
+  {
+    "id_equipo": 5,
+    "nombre": "Pérez, Verduzco y Mondragón",
+    "ciudad": "Vieja Saint Kitts y Nevis",
+    "fundacion": "1939-09-20"
+  },
+  {
+    "id_equipo": 6,
+    "nombre": "Tórrez y Tórrez S.A.",
+    "ciudad": "Nueva Kazajstán",
+    "fundacion": "1963-04-09"
+  },
+  {
+    "id_equipo": 7,
+    "nombre": "Hernádez S. R.L. de C.V.",
+    "ciudad": "San Gustavo los bajos",
+    "fundacion": "1954-12-18"
+  },
+  {
+    "id_equipo": 8,
+    "nombre": "Velásquez-Lugo",
+    "ciudad": "San Luis Miguel los bajos",
+    "fundacion": "1943-07-06"
+  },
+  {
+    "id_equipo": 9,
+    "nombre": "Bernal y Griego S.A. de C.V.",
+    "ciudad": "San Esmeralda los altos",
+    "fundacion": "1925-02-24"
+  },
+  {
+    "id_equipo": 10,
+    "nombre": "Quiñónez-Tapia",
+    "ciudad": "Nueva Vanuatu",
+    "fundacion": "1963-08-06"
+  },
+  {
+    "id_equipo": 11,
+    "nombre": "Garay-Burgos A.C.",
+    "ciudad": "San Laura los bajos",
+    "fundacion": "1942-11-06"
+  },
+  {
+    "id_equipo": 12,
+    "nombre": "Herrera y Jaramillo y Asociados",
+    "ciudad": "San Pascual de la Montaña",
+    "fundacion": "1921-10-12"
+  },
+  {
+    "id_equipo": 13,
+    "nombre": "Grupo Rolón y Ramírez",
+    "ciudad": "San Arcelia de la Montaña",
+    "fundacion": "1942-08-24"
+  },
+  {
+    "id_equipo": 14,
+    "nombre": "Carrasco y Escobar S.A. de C.V.",
+    "ciudad": "Vieja Botswana",
+    "fundacion": "1938-02-25"
+  },
+  {
+    "id_equipo": 15,
+    "nombre": "Huerta-Munguía",
+    "ciudad": "San Joaquín los altos",
+    "fundacion": "1920-03-20"
+  },
+  {
+    "id_equipo": 16,
+    "nombre": "Club Valdez, Aguilar y Saiz",
+    "ciudad": "San Rocío de la Montaña",
+    "fundacion": "2001-02-14"
+  },
+  {
+    "id_equipo": 17,
+    "nombre": "Carbajal S. R.L. de C.V.",
+    "ciudad": "Nueva Albania",
+    "fundacion": "1920-02-05"
+  },
+  {
+    "id_equipo": 18,
+    "nombre": "Industrias Gálvez, Ramos y Ibarra",
+    "ciudad": "San Roberto los bajos",
+    "fundacion": "1921-11-06"
+  },
+  {
+    "id_equipo": 19,
+    "nombre": "Abreu e Hijos",
+    "ciudad": "San Alvaro los bajos",
+    "fundacion": "1957-07-12"
+  },
+  {
+    "id_equipo": 20,
+    "nombre": "Galarza-Arce",
+    "ciudad": "Vieja Brunei Darussalam",
+    "fundacion": "1988-12-17"
+  },
+  {
+    "id_equipo": 21,
+    "nombre": "Corporacin Mares-Márquez",
+    "ciudad": "San Luz los bajos",
+    "fundacion": "1972-08-13"
+  },
+  {
+    "id_equipo": 22,
+    "nombre": "de León, Barela y Puga",
+    "ciudad": "San Fernando de la Montaña",
+    "fundacion": "2001-06-22"
+  },
+  {
+    "id_equipo": 23,
+    "nombre": "Uribe-Dávila",
+    "ciudad": "San Bernabé de la Montaña",
+    "fundacion": "1960-11-05"
+  },
+  {
+    "id_equipo": 24,
+    "nombre": "Barraza-Carreón",
+    "ciudad": "Nueva Bahrein",
+    "fundacion": "1921-03-15"
+  },
+  {
+    "id_equipo": 25,
+    "nombre": "Industrias Negrete y Concepción",
+    "ciudad": "San Renato los bajos",
+    "fundacion": "1996-07-20"
+  },
+  {
+    "id_equipo": 26,
+    "nombre": "Barrera y Cabán S.A.",
+    "ciudad": "Nueva Sudán",
+    "fundacion": "2018-05-02"
+  },
+  {
+    "id_equipo": 27,
+    "nombre": "Luna, Chavarría y Castellanos",
+    "ciudad": "Vieja Tuvalu",
+    "fundacion": "1950-04-27"
+  },
+  {
+    "id_equipo": 28,
+    "nombre": "Ruiz A.C.",
+    "ciudad": "San Ruby los bajos",
+    "fundacion": "1983-10-26"
+  },
+  {
+    "id_equipo": 29,
+    "nombre": "Treviño y Asociados",
+    "ciudad": "San Sara los bajos",
+    "fundacion": "1978-06-10"
+  },
+  {
+    "id_equipo": 30,
+    "nombre": "Mondragón, Vera y Cardenas",
+    "ciudad": "Nueva Saint Kitts y Nevis",
+    "fundacion": "1982-01-10"
+  },
+  {
+    "id_equipo": 31,
+    "nombre": "Industrias Nieves-Castro",
+    "ciudad": "Nueva República Árabe Siria",
+    "fundacion": "1983-12-30"
+  },
+  {
+    "id_equipo": 32,
+    "nombre": "Proyectos Gracia y Bahena",
+    "ciudad": "San Aurelio los altos",
+    "fundacion": "1945-01-14"
+  },
+  {
+    "id_equipo": 33,
+    "nombre": "Saucedo, Zamora y Cuellar",
+    "ciudad": "Vieja Tonga",
+    "fundacion": "2007-05-11"
+  },
+  {
+    "id_equipo": 34,
+    "nombre": "Estévez S.C.",
+    "ciudad": "San Lucas de la Montaña",
+    "fundacion": "2006-06-12"
+  },
+  {
+    "id_equipo": 35,
+    "nombre": "Partida-Vallejo",
+    "ciudad": "Vieja República de Corea",
+    "fundacion": "1994-06-13"
+  },
+  {
+    "id_equipo": 36,
+    "nombre": "Santana-Ojeda S. R.L. de C.V.",
+    "ciudad": "Vieja Tonga",
+    "fundacion": "1990-05-14"
+  },
+  {
+    "id_equipo": 37,
+    "nombre": "Vásquez y Razo S.A. de C.V.",
+    "ciudad": "Nueva Santa Lucía",
+    "fundacion": "1987-02-19"
+  },
+  {
+    "id_equipo": 38,
+    "nombre": "Grupo Rangel, Carbajal y Amador",
+    "ciudad": "San Bernabé los altos",
+    "fundacion": "1935-09-25"
+  },
+  {
+    "id_equipo": 39,
+    "nombre": "Miramontes-Durán y Asociados",
+    "ciudad": "Nueva Palau",
+    "fundacion": "2012-01-24"
+  },
+  {
+    "id_equipo": 40,
+    "nombre": "Leal S.C.",
+    "ciudad": "Vieja Finlandia",
+    "fundacion": "1968-09-25"
+  },
+  {
+    "id_equipo": 41,
+    "nombre": "Soliz-Martínez",
+    "ciudad": "Nueva Somalia",
+    "fundacion": "1992-01-09"
+  },
+  {
+    "id_equipo": 42,
+    "nombre": "Trujillo-Quintanilla S.A. de C.V.",
+    "ciudad": "San Jos los bajos",
+    "fundacion": "1945-03-04"
+  },
+  {
+    "id_equipo": 43,
+    "nombre": "Puga-Vallejo A.C.",
+    "ciudad": "Vieja Burundi",
+    "fundacion": "1992-11-29"
+  },
+  {
+    "id_equipo": 44,
+    "nombre": "Laboratorios Rosas-Hidalgo",
+    "ciudad": "Vieja Bahamas",
+    "fundacion": "1934-01-17"
+  },
+  {
+    "id_equipo": 45,
+    "nombre": "Marrero y de la Crúz S.A. de C.V.",
+    "ciudad": "Nueva Malta",
+    "fundacion": "1953-10-22"
+  },
+  {
+    "id_equipo": 46,
+    "nombre": "Laboratorios Prieto, Garza y Tijerina",
+    "ciudad": "Nueva Jamaica",
+    "fundacion": "1955-05-02"
+  },
+  {
+    "id_equipo": 47,
+    "nombre": "Grupo Trejo y Naranjo",
+    "ciudad": "San Fidel los altos",
+    "fundacion": "1999-06-06"
+  },
+  {
+    "id_equipo": 48,
+    "nombre": "Tello, Téllez y Mayorga",
+    "ciudad": "Vieja Burundi",
+    "fundacion": "1949-12-28"
+  },
+  {
+    "id_equipo": 49,
+    "nombre": "Meléndez S.C.",
+    "ciudad": "San Ana los bajos",
+    "fundacion": "1968-11-29"
+  },
+  {
+    "id_equipo": 50,
+    "nombre": "Zayas y Casanova A.C.",
+    "ciudad": "Vieja Bahrein",
+    "fundacion": "1984-03-16"
+  },
+  {
+    "id_equipo": 51,
+    "nombre": "Despacho Rivera, Valentín y Muñiz",
+    "ciudad": "San Rodolfo de la Montaña",
+    "fundacion": "1979-03-28"
+  },
+  {
+    "id_equipo": 52,
+    "nombre": "Ceballos-Caldera",
+    "ciudad": "San Amanda de la Montaña",
+    "fundacion": "1984-07-16"
+  },
+  {
+    "id_equipo": 53,
+    "nombre": "Sosa e Hijos",
+    "ciudad": "San Federico los altos",
+    "fundacion": "1993-09-07"
+  },
+  {
+    "id_equipo": 54,
+    "nombre": "Corporacin Arroyo, Téllez y Ceballos",
+    "ciudad": "San Jesús los altos",
+    "fundacion": "1943-09-19"
+  },
+  {
+    "id_equipo": 55,
+    "nombre": "Riojas-Cortés A.C.",
+    "ciudad": "Vieja Armenia",
+    "fundacion": "1947-02-06"
+  },
+  {
+    "id_equipo": 56,
+    "nombre": "Laboratorios Zayas, Irizarry y Malave",
+    "ciudad": "San Gustavo de la Montaña",
+    "fundacion": "2004-09-22"
+  },
+  {
+    "id_equipo": 57,
+    "nombre": "Carvajal y Tafoya e Hijos",
+    "ciudad": "Vieja Belarús",
+    "fundacion": "2019-08-24"
+  },
+  {
+    "id_equipo": 58,
+    "nombre": "Cazares, Lemus y Muñoz",
+    "ciudad": "Vieja Madagascar",
+    "fundacion": "1976-09-10"
+  },
+  {
+    "id_equipo": 59,
+    "nombre": "Arteaga-Pedroza",
+    "ciudad": "Nueva Sierra Leona",
+    "fundacion": "1977-08-23"
+  },
+  {
+    "id_equipo": 60,
+    "nombre": "Montañez y Velázquez S.A. de C.V.",
+    "ciudad": "San Ramón los bajos",
+    "fundacion": "1937-04-11"
+  },
+  {
+    "id_equipo": 61,
+    "nombre": "Pulido y Longoria y Asociados",
+    "ciudad": "Nueva Tailandia",
+    "fundacion": "1994-01-22"
+  },
+  {
+    "id_equipo": 62,
+    "nombre": "Almaraz-Enríquez",
+    "ciudad": "Nueva China",
+    "fundacion": "1940-07-21"
+  },
+  {
+    "id_equipo": 63,
+    "nombre": "Terán-Macías",
+    "ciudad": "San Estela de la Montaña",
+    "fundacion": "1923-06-09"
+  },
+  {
+    "id_equipo": 64,
+    "nombre": "Orta-Alonzo",
+    "ciudad": "San Ramiro los bajos",
+    "fundacion": "2014-01-10"
+  },
+  {
+    "id_equipo": 65,
+    "nombre": "Sanabria y Villalobos S.A. de C.V.",
+    "ciudad": "San Aldo los altos",
+    "fundacion": "2009-08-26"
+  },
+  {
+    "id_equipo": 66,
+    "nombre": "Corporacin Romo-Pichardo",
+    "ciudad": "Nueva Senegal",
+    "fundacion": "1972-11-03"
+  },
+  {
+    "id_equipo": 67,
+    "nombre": "Tello S. R.L. de C.V.",
+    "ciudad": "Vieja Líbano",
+    "fundacion": "1940-10-23"
+  },
+  {
+    "id_equipo": 68,
+    "nombre": "Pineda-Arreola S.A.",
+    "ciudad": "Nueva Sri Lanka",
+    "fundacion": "1923-06-07"
+  },
+  {
+    "id_equipo": 69,
+    "nombre": "Grupo Negrón y Cintrón",
+    "ciudad": "Nueva Islas Salomón",
+    "fundacion": "2019-06-10"
+  },
+  {
+    "id_equipo": 70,
+    "nombre": "Club Canales-Munguía",
+    "ciudad": "Vieja Liberia",
+    "fundacion": "1923-09-04"
+  },
+  {
+    "id_equipo": 71,
+    "nombre": "Corporacin Ocampo, Lira y Sierra",
+    "ciudad": "Vieja Italia",
+    "fundacion": "1977-09-14"
+  },
+  {
+    "id_equipo": 72,
+    "nombre": "López y Arriaga e Hijos",
+    "ciudad": "San Iván de la Montaña",
+    "fundacion": "1944-10-01"
+  },
+  {
+    "id_equipo": 73,
+    "nombre": "Rico-Moya S.A. de C.V.",
+    "ciudad": "Nueva Austria",
+    "fundacion": "1961-04-29"
+  },
+  {
+    "id_equipo": 74,
+    "nombre": "Proyectos Peña, Carrillo y Montañez",
+    "ciudad": "Nueva Malawi",
+    "fundacion": "1937-02-04"
+  },
+  {
+    "id_equipo": 75,
+    "nombre": "Soliz-Lozada",
+    "ciudad": "Vieja Guatemala",
+    "fundacion": "1995-04-05"
+  },
+  {
+    "id_equipo": 76,
+    "nombre": "Alonzo-Armas",
+    "ciudad": "Vieja Países Bajos",
+    "fundacion": "1985-07-13"
+  },
+  {
+    "id_equipo": 77,
+    "nombre": "Navarro S.C.",
+    "ciudad": "Vieja Seychelles",
+    "fundacion": "1951-12-24"
+  },
+  {
+    "id_equipo": 78,
+    "nombre": "Urrutia, Sisneros y Tejada",
+    "ciudad": "San Evelio de la Montaña",
+    "fundacion": "1932-03-31"
+  },
+  {
+    "id_equipo": 79,
+    "nombre": "Menéndez y Pizarro S.A.",
+    "ciudad": "San Elvira de la Montaña",
+    "fundacion": "1996-07-23"
+  },
+  {
+    "id_equipo": 80,
+    "nombre": "Industrias Ulibarri-Quintanilla",
+    "ciudad": "San Itzel de la Montaña",
+    "fundacion": "1976-03-03"
+  },
+  {
+    "id_equipo": 81,
+    "nombre": "Club Cabrera-Bermúdez",
+    "ciudad": "Nueva Turkmenistán",
+    "fundacion": "1952-02-12"
+  },
+  {
+    "id_equipo": 82,
+    "nombre": "Quintero-Gallardo S.C.",
+    "ciudad": "San Nayeli los bajos",
+    "fundacion": "1995-08-21"
+  },
+  {
+    "id_equipo": 83,
+    "nombre": "Batista y Franco e Hijos",
+    "ciudad": "San Elsa los bajos",
+    "fundacion": "2015-08-08"
+  },
+  {
+    "id_equipo": 84,
+    "nombre": "Orozco S.C.",
+    "ciudad": "Nueva Portugal",
+    "fundacion": "1976-03-23"
+  },
+  {
+    "id_equipo": 85,
+    "nombre": "Velázquez, Rolón y Gallegos",
+    "ciudad": "San Gabriel de la Montaña",
+    "fundacion": "1997-10-22"
+  },
+  {
+    "id_equipo": 86,
+    "nombre": "Grupo Gaytán y Coronado",
+    "ciudad": "San Antonio de la Montaña",
+    "fundacion": "2013-01-20"
+  },
+  {
+    "id_equipo": 87,
+    "nombre": "Tijerina S.C.",
+    "ciudad": "Nueva Colombia",
+    "fundacion": "1978-05-20"
+  },
+  {
+    "id_equipo": 88,
+    "nombre": "Gracia, Ochoa y Malave",
+    "ciudad": "Nueva Madagascar",
+    "fundacion": "1953-12-28"
+  },
+  {
+    "id_equipo": 89,
+    "nombre": "Proyectos Mata y León",
+    "ciudad": "San Virginia los bajos",
+    "fundacion": "1982-11-16"
+  },
+  {
+    "id_equipo": 90,
+    "nombre": "Bahena y Merino S.A.",
+    "ciudad": "Nueva Bahrein",
+    "fundacion": "1960-04-05"
+  },
+  {
+    "id_equipo": 91,
+    "nombre": "Club Valadez y Granado",
+    "ciudad": "San Nelly los bajos",
+    "fundacion": "1964-05-30"
+  },
+  {
+    "id_equipo": 92,
+    "nombre": "Laboratorios Canales, Bétancourt y Henríquez",
+    "ciudad": "Vieja Lesotho",
+    "fundacion": "1934-08-12"
+  },
+  {
+    "id_equipo": 93,
+    "nombre": "Negrete-Puente S. R.L. de C.V.",
+    "ciudad": "Vieja Mauricio",
+    "fundacion": "1957-03-21"
+  },
+  {
+    "id_equipo": 94,
+    "nombre": "Club Urrutia, Carmona y Becerra",
+    "ciudad": "San Adán los altos",
+    "fundacion": "1978-09-24"
+  },
+  {
+    "id_equipo": 95,
+    "nombre": "Grupo Ballesteros-Piña",
+    "ciudad": "San Ramón los altos",
+    "fundacion": "2019-09-17"
+  },
+  {
+    "id_equipo": 96,
+    "nombre": "Escobedo, Altamirano y Páez",
+    "ciudad": "Vieja Israel",
+    "fundacion": "1963-07-19"
+  },
+  {
+    "id_equipo": 97,
+    "nombre": "Vega-Rocha y Asociados",
+    "ciudad": "Nueva Finlandia",
+    "fundacion": "1927-08-19"
+  },
+  {
+    "id_equipo": 98,
+    "nombre": "Club Márquez, Barragán y Aguirre",
+    "ciudad": "Nueva Ecuador",
+    "fundacion": "2019-08-04"
+  },
+  {
+    "id_equipo": 99,
+    "nombre": "Parra, Urrutia y Valle",
+    "ciudad": "San Víctor los bajos",
+    "fundacion": "2018-11-24"
+  },
+  {
+    "id_equipo": 100,
+    "nombre": "Corporacin Leal, Collazo y Hernández",
+    "ciudad": "Nueva Bahrein",
+    "fundacion": "1928-03-25"
+  }
+]
