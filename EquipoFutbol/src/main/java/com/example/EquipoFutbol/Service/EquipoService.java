@@ -1,7 +1,6 @@
 package com.example.EquipoFutbol.Service;
 
 import com.example.EquipoFutbol.Model.Equipo;
-import com.example.EquipoFutbol.Model.Partido;
 import com.example.EquipoFutbol.Repository.EquipoRepository;
 import org.springframework.stereotype.Service;
 
@@ -45,11 +44,11 @@ public class EquipoService {
 
     public Optional<Equipo> listarPorId(long id_equipo) {
         try {
-            Optional<Equipo> venta = equipoRepository.findById(id_equipo);
-            if (venta.isEmpty()) {
+            Optional<Equipo> equipo = equipoRepository.findById(id_equipo);
+            if (equipo.isEmpty()) {
                 throw new IllegalArgumentException("Equipo con ID " + id_equipo + " no encontrado.");
             }
-            return venta;
+            return equipo;
         } catch (Exception e) {
             throw new RuntimeException("Error al buscar equipo por ID" + e.getMessage(), e);
         }

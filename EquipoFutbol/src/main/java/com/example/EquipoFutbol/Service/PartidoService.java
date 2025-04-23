@@ -44,11 +44,11 @@ public class PartidoService {
 
     public Optional<Partido> listarPorId(long id_partido) {
         try {
-            Optional<Partido> venta = partidoRepository.findById(id_partido);
-            if (venta.isEmpty()) {
+            Optional<Partido> partido = partidoRepository.findById(id_partido);
+            if (partido.isEmpty()) {
                 throw new IllegalArgumentException("Partido con ID " + id_partido + " no encontrado.");
             }
-            return venta;
+            return partido;
         } catch (Exception e) {
             throw new RuntimeException("Error al buscar partido por ID" + e.getMessage(), e);
         }

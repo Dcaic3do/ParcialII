@@ -17,24 +17,24 @@ public class EquipoController {
     }
 
     @PostMapping("/guardar")
-    public ResponseEntity<Equipo> guardarVenta(@RequestBody Equipo equipo) {
+    public ResponseEntity<Equipo> guardarEquipo(@RequestBody Equipo equipo) {
         return ResponseEntity.ok(equipoService.guardar(equipo));
     }
 
     @GetMapping("/listar")
-    public ResponseEntity<List<Equipo>> listarVenta() {
+    public ResponseEntity<List<Equipo>> listarEquipo() {
         return ResponseEntity.ok(equipoService.listar());
     }
 
     @GetMapping("/listar/{id_equipo}")
-    public ResponseEntity<Equipo> obtenerClientePorId(@PathVariable long id_equipo) {
+    public ResponseEntity<Equipo> obtenerEquipoPorId(@PathVariable long id_equipo) {
         return equipoService.listarPorId(id_equipo)
                 .map(ResponseEntity::ok)
                 .orElse(ResponseEntity.notFound().build());
     }
 
     @DeleteMapping("/eliminar/{id_equipo}")
-    public ResponseEntity<Void> eliminarVenta(@PathVariable long id_equipo) {
+    public ResponseEntity<Void> eliminarEquipo(@PathVariable long id_equipo) {
         equipoService.eliminar(id_equipo);
         return ResponseEntity.noContent().build();
     }
