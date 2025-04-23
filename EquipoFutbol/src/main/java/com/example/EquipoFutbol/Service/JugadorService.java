@@ -53,4 +53,21 @@ public class JugadorService {
             throw new RuntimeException("Error al buscar jugador por ID" + e.getMessage(), e);
         }
     }
+
+    public List<Jugador> JugadoresporEquipo(Long id_equipo) {
+        try {
+            return jugadorRepository.listarJugadoresporEquipo(id_equipo);
+        } catch (Exception e) {
+            throw new RuntimeException("Error al listar los jugadores de un equipo" + e.getMessage(), e);
+        }
+    }
+
+    public List<Jugador> JugadoresConMasDeXGoles(int goles) {
+        try {
+            return jugadorRepository.listarJugadoresConMasDeXGoles(goles);
+        } catch (Exception e) {
+            throw new RuntimeException("Error al listar los jugadores con mas de X goles" + e.getMessage(), e);
+        }
+
+    }
 }

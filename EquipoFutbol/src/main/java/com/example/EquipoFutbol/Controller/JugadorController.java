@@ -38,4 +38,14 @@ public class JugadorController {
         jugadorService.eliminar(id_jugador);
         return ResponseEntity.noContent().build();
     }
+
+    @GetMapping("/jugador_por_equipo/{id_equipo}")
+    public List<Jugador> getJugadoresPorEquipo(@PathVariable Long id_equipo) {
+        return jugadorService.JugadoresporEquipo(id_equipo);
+    }
+
+    @GetMapping("/jugador_mas_X_goles/{goles}")
+    public List<Jugador> getJugadoresConMasDeXGoles(@PathVariable int goles) {
+        return jugadorService.JugadoresConMasDeXGoles(goles);
+    }
 }

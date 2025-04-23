@@ -5,6 +5,7 @@ import com.example.EquipoFutbol.Repository.PartidoRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
+import java.util.Objects;
 import java.util.Optional;
 
 @Service
@@ -52,5 +53,15 @@ public class PartidoService {
         } catch (Exception e) {
             throw new RuntimeException("Error al buscar partido por ID" + e.getMessage(), e);
         }
+    }
+
+    public int listarTotalGolesEquipo(Long id_equipo) {
+        try {
+            List<Integer> goles = partidoRepository.listarTotalGolesEquipo(id_equipo);
+            return goles.stream().filter(Objects::nonNull).mapToInt(Integer::intValue).sum();
+        } catch (Exception e) {
+            throw new RuntimeException("Error al mostrar el numero de goles de un equipo en todos sus partidos" + e.getMessage(), e);
+        }
+
     }
 }

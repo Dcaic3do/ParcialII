@@ -38,4 +38,9 @@ public class PartidoController {
         partidoService.eliminar(id_partido);
         return ResponseEntity.noContent().build();
     }
+
+    @GetMapping("/goles_por partido/{id_equipo}")
+    public int getGolesTotalesEquipo(@PathVariable Long id_equipo) {
+        return partidoService.listarTotalGolesEquipo(id_equipo);
+    }
 }
